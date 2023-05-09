@@ -284,14 +284,14 @@ def json_to_md(filename,md_filename,
     # write data into README.md
     with open(md_filename,"a+") as f:
 
-        if (use_title == True) and (to_web == True):
-            f.write("---\n" + "layout: default\n" + "---\n\n")
+#         if (use_title == True) and (to_web == True):
+#             f.write("---\n" + "layout: default\n" + "---\n\n")
         
-        if show_badge == True:
-            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
+#         if show_badge == True:
+#             f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
+#             f.write(f"[![Forks][forks-shield]][forks-url]\n")
+#             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
+#             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
                 
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
@@ -301,7 +301,7 @@ def json_to_md(filename,md_filename,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+#         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
         #Add: table of contents
         if use_tc == True:
