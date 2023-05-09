@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -10,10 +6,28 @@ layout: default
 ## Updated on 2023.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#SLAM>SLAM</a></li>
+    <li><a href=#SFM>SFM</a></li>
+    <li><a href=#Visual-Localization>Visual Localization</a></li>
+    <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
+    <li><a href=#Image-Matching>Image Matching</a></li>
+    <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#KG>KG</a></li>
+    <li><a href=#NER>NER</a></li>
+    <li><a href=#ERE>ERE</a></li>
+    <li><a href=#KF>KF</a></li>
+    <li><a href=#ED>ED</a></li>
+    <li><a href=#CR>CR</a></li>
+  </ol>
+</details>
+
 ## SLAM
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348](http://arxiv.org/abs/2305.00348)|**[link](https://github.com/memmelma/vo-transformer)**|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719](http://arxiv.org/abs/2304.10719)|null|
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
@@ -406,10 +420,12 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## SFM
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger et.al.|[2304.10664](http://arxiv.org/abs/2304.10664)|null|
 |**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott et.al.|[2304.07250](http://arxiv.org/abs/2304.07250)|null|
 |**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947](http://arxiv.org/abs/2304.05947)|**[link](https://github.com/v-pnk/cadloc)**|
@@ -506,10 +522,12 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## Visual Localization
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-05-08**|**Hierarchical Visual Localization Based on Sparse Feature Pyramid for Adaptive Reduction of Keypoint Map Size**|Andrei Potapov et.al.|[2305.04856](http://arxiv.org/abs/2305.04856)|null|
 |**2023-05-08**|**Privacy-Preserving Representations are not Enough -- Recovering Scene Content from Camera Poses**|Kunal Chelani et.al.|[2305.04603](http://arxiv.org/abs/2305.04603)|null|
 |**2023-05-06**|**Keyword-Based Diverse Image Retrieval by Semantics-aware Contrastive Learning and Transformer**|Minyi Zhao et.al.|[2305.04072](http://arxiv.org/abs/2305.04072)|null|
@@ -912,10 +930,12 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## Keypoint Detection
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487](http://arxiv.org/abs/2305.03487)|**[link](https://github.com/hui-design/hd2reg)**|
 |**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186](http://arxiv.org/abs/2304.08186)|null|
 |**2023-04-14**|**CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**|Mubariz Zaffar et.al.|[2304.07426](http://arxiv.org/abs/2304.07426)|null|
@@ -1050,10 +1070,12 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## Image Matching
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-04-29**|**A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges**|Xinyu Lin et.al.|[2305.00264](http://arxiv.org/abs/2305.00264)|null|
 |**2023-04-28**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845](http://arxiv.org/abs/2304.14845)|**[link](https://github.com/feixue94/sfd2)**|
 |**2023-04-17**|**DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**|Mohamed Ali Chebbi et.al.|[2304.08056](http://arxiv.org/abs/2304.08056)|**[link](https://github.com/dalichebbi/deepsimnets)**|
@@ -1184,10 +1206,12 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## NeRF
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-05-08**|**AvatarReX: Real-time Expressive Full-body Avatars**|Zerong Zheng et.al.|[2305.04789](http://arxiv.org/abs/2305.04789)|null|
 |**2023-05-07**|**HashCC: Lightweight Method to Improve the Quality of the Camera-less NeRF Scene Generation**|Jan Olszewski et.al.|[2305.04296](http://arxiv.org/abs/2305.04296)|null|
 |**2023-05-07**|**Multi-Space Neural Radiance Fields**|Ze-Xin Yin et.al.|[2305.04268](http://arxiv.org/abs/2305.04268)|null|
@@ -1533,10 +1557,12 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## KG
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-05-04**|**Multi-grained Hypergraph Interest Modeling for Conversational Recommendation**|Chenzhan Shang et.al.|[2305.04798](http://arxiv.org/abs/2305.04798)|**[link](https://github.com/rucaibox/mhim)**|
 |**2023-05-08**|**Enhancing Knowledge Graph Construction Using Large Language Models**|Milena Trajanoska et.al.|[2305.04676](http://arxiv.org/abs/2305.04676)|null|
 |**2023-05-08**|**Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**|Zeju Li et.al.|[2305.04567](http://arxiv.org/abs/2305.04567)|null|
@@ -1548,10 +1574,12 @@ layout: default
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## NER
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557](http://arxiv.org/abs/2305.04557)|**[link](https://github.com/gingasan/creat)**|
 |**2023-05-06**|**SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition**|Shuzheng Si et.al.|[2305.04076](http://arxiv.org/abs/2305.04076)|**[link](https://github.com/pkunlp-icler/santa)**|
 |**2023-05-06**|**NER-to-MRC: Named-Entity Recognition Completely Solving as Machine Reading Comprehension**|Yuxiang Zhang et.al.|[2305.03970](http://arxiv.org/abs/2305.03970)|null|
@@ -1563,10 +1591,12 @@ layout: default
 |**2023-05-04**|**USTC-NELSLIP at SemEval-2023 Task 2: Statistical Construction and Dual Adaptation of Gazetteer for Multilingual Complex NER**|Jun-Yu Ma et.al.|[2305.02517](http://arxiv.org/abs/2305.02517)|null|
 |**2023-05-03**|**Causal Interventions-based Few-Shot Named Entity Recognition**|Zhen Yang et.al.|[2305.01914](http://arxiv.org/abs/2305.01914)|null|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## ERE
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2006-06-30**|**Rank one discrete valuations of power series fields**|F. J. Herrera Govantes et.al.|[math/0605225](http://arxiv.org/abs/math/0605225)|null|
 |**2002-12-16**|**Rank one discrete valuations of $k((X_1,...X_n))$**|M. A. Olalla Acosta et.al.|[math/0010313](http://arxiv.org/abs/math/0010313)|null|
 |**2023-02-17**|**Strong Anti-correlation between Disc-corona radii and Frequencies of Low-frequency QPOs in a black hole binary XTE J1550-564 :Evidence for Lense-Thirring Precession**|Aya Kubota et.al.|[2302.08314](http://arxiv.org/abs/2302.08314)|null|
@@ -1575,10 +1605,12 @@ layout: default
 |**2022-01-14**|**The Lokahi Prototype: Toward the automatic Extraction of Entity Relationship Models from Text**|Michael Kaufmann et.al.|[2201.05327](http://arxiv.org/abs/2201.05327)|null|
 |**2008-04-02**|**Parts-of-Speech Tagger Errors Do Not Necessarily Degrade Accuracy in Extracting Information from Biomedical Text**|Maurice HT Ling et.al.|[0804.0317](http://arxiv.org/abs/0804.0317)|null|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## KF
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-05-07**|**Empowering Language Model with Guided Knowledge Fusion for Biomedical Document Re-ranking**|Deepak Gupta et.al.|[2305.04344](http://arxiv.org/abs/2305.04344)|null|
 |**2023-04-28**|**Improving Knowledge Graph Entity Alignment with Graph Augmentation**|Feng Xie et.al.|[2304.14585](http://arxiv.org/abs/2304.14585)|**[link](https://github.com/xiefeng69/gaea)**|
 |**2023-04-24**|**Data-driven Knowledge Fusion for Deep Multi-instance Learning**|Yu-Xuan Zhang et.al.|[2304.11905](http://arxiv.org/abs/2304.11905)|**[link](https://github.com/inkiinki/dkmil)**|
@@ -1590,10 +1622,12 @@ layout: default
 |**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019](http://arxiv.org/abs/2302.05019)|null|
 |**2023-04-28**|**Dataless Knowledge Fusion by Merging Weights of Language Models**|Xisen Jin et.al.|[2212.09849](http://arxiv.org/abs/2212.09849)|**[link](https://github.com/bloomberg/dataless-model-merging)**|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## ED
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-03-18**|**Exploring Partial Knowledge Base Inference in Biomedical Entity Linking**|Hongyi Yuan et.al.|[2303.10330](http://arxiv.org/abs/2303.10330)|null|
 |**2023-04-15**|**Disambiguation of Company names via Deep Recurrent Networks**|Alessandro Basile et.al.|[2303.05391](http://arxiv.org/abs/2303.05391)|**[link](https://github.com/rcrupiisp/siamesedisambiguation)**|
 |**2023-02-17**|**KILM: Knowledge Injection into Encoder-Decoder Language Models**|Yan Xu et.al.|[2302.09170](http://arxiv.org/abs/2302.09170)|**[link](https://github.com/alexa/kilm)**|
@@ -1605,10 +1639,12 @@ layout: default
 |**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106](http://arxiv.org/abs/2207.04106)|null|
 |**2022-04-20**|**LingYi: Medical Conversational Question Answering System based on Multi-modal Knowledge Graphs**|Fei Xia et.al.|[2204.09220](http://arxiv.org/abs/2204.09220)|**[link](https://github.com/wengsyx/lingyi)**|
 
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+
 ## CR
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2023-04-27**|**Entity-Level Sentiment Analysis (ELSA): An exploratory task survey**|Egil Rønningstad et.al.|[2304.14241](http://arxiv.org/abs/2304.14241)|**[link](https://github.com/egilron/elsa-introduction)**|
 |**2023-04-19**|**Radar de Parité: An NLP system to measure gender representation in French news stories**|Valentin-Gabriel Soumah et.al.|[2304.09982](http://arxiv.org/abs/2304.09982)|null|
 |**2023-04-07**|**BenCoref: A Multi-Domain Dataset of Nominal Phrases and Pronominal Reference Annotations**|Shadman Rohan et.al.|[2304.03682](http://arxiv.org/abs/2304.03682)|**[link](https://github.com/shadmanrohan/bencoref)**|
@@ -1619,6 +1655,8 @@ layout: default
 |**2023-02-11**|**Counter-GAP: Counterfactual Bias Evaluation through Gendered Ambiguous Pronouns**|Zhongbin Xie et.al.|[2302.05674](http://arxiv.org/abs/2302.05674)|null|
 |**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842](http://arxiv.org/abs/2302.01842)|**[link](https://github.com/vladimir-ershov/adgm-kg1)**|
 |**2023-02-03**|**AmbiCoref: Evaluating Human and Model Sensitivity to Ambiguous Coreference**|Yuewei Yuan et.al.|[2302.00762](http://arxiv.org/abs/2302.00762)|**[link](https://github.com/lucyyyw/ambicoref)**|
+
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
