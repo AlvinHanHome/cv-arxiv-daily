@@ -1,15 +1,4 @@
----
-layout: default
----
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Updated on 2023.05.09
-> Usage instructions: [here](./docs/README.md#usage)
-
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
