@@ -1,4 +1,4 @@
-## Updated on 2023.05.10
+## Updated on 2023.05.11
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,10 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-09**|**COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**|Jincenzi Wu et.al.|[2305.05390](http://arxiv.org/abs/2305.05390)|null|
+|**2023-05-08**|**Knowledge-enhanced Agents for Interactive Text Games**|Prateek Chhikara et.al.|[2305.05091](http://arxiv.org/abs/2305.05091)|null|
+|**2023-05-08**|**Knowledge Graph Guided Semantic Evaluation of Language Models For User Trust**|Kaushik Roy et.al.|[2305.04989](http://arxiv.org/abs/2305.04989)|null|
 |**2023-05-04**|**Multi-grained Hypergraph Interest Modeling for Conversational Recommendation**|Chenzhan Shang et.al.|[2305.04798](http://arxiv.org/abs/2305.04798)|**[link](https://github.com/rucaibox/mhim)**|
 |**2023-05-08**|**Enhancing Knowledge Graph Construction Using Large Language Models**|Milena Trajanoska et.al.|[2305.04676](http://arxiv.org/abs/2305.04676)|null|
 |**2023-05-08**|**Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**|Zeju Li et.al.|[2305.04567](http://arxiv.org/abs/2305.04567)|null|
@@ -1541,6 +1545,8 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Attack Named Entity Recognition by Entity Boundary Interference**|Yifei Yang et.al.|[2305.05253](http://arxiv.org/abs/2305.05253)|null|
+|**2023-05-05**|**A transformer-based method for zero and few-shot biomedical named entity recognition**|Miloš Košprdić et.al.|[2305.04928](http://arxiv.org/abs/2305.04928)|**[link](https://github.com/br-ai-ns-institute/zero-shotner)**|
 |**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557](http://arxiv.org/abs/2305.04557)|**[link](https://github.com/gingasan/creat)**|
 |**2023-05-06**|**SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition**|Shuzheng Si et.al.|[2305.04076](http://arxiv.org/abs/2305.04076)|**[link](https://github.com/pkunlp-icler/santa)**|
 |**2023-05-06**|**NER-to-MRC: Named-Entity Recognition Completely Solving as Machine Reading Comprehension**|Yuxiang Zhang et.al.|[2305.03970](http://arxiv.org/abs/2305.03970)|null|
