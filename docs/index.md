@@ -1,4 +1,4 @@
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,11 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294](http://arxiv.org/abs/2305.06294)|null|
+|**2023-05-10**|**Few-shot Link Prediction on N-ary Facts**|Jiyao Wei et.al.|[2305.06104](http://arxiv.org/abs/2305.06104)|null|
+|**2023-05-10**|**Building Interoperable Electronic Health Records as Purpose-Driven Knowledge Graphs**|Simone Bocca et.al.|[2305.06088](http://arxiv.org/abs/2305.06088)|null|
+|**2023-05-10**|**ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base**|Siyu Yuan et.al.|[2305.05994](http://arxiv.org/abs/2305.05994)|null|
+|**2023-05-10**|**Multi-hop Commonsense Knowledge Injection Framework for Zero-Shot Commonsense Question Answering**|Xin Guan et.al.|[2305.05936](http://arxiv.org/abs/2305.05936)|null|
 |**2023-05-10**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
 |**2023-05-09**|**COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**|Jincenzi Wu et.al.|[2305.05390](http://arxiv.org/abs/2305.05390)|null|
 |**2023-05-08**|**Knowledge-enhanced Agents for Interactive Text Games**|Prateek Chhikara et.al.|[2305.05091](http://arxiv.org/abs/2305.05091)|null|
@@ -1545,6 +1550,11 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Korean Named Entity Recognition Based on Language-Specific Features**|Yige Chen et.al.|[2305.06330](http://arxiv.org/abs/2305.06330)|null|
+|**2023-05-10**|**PAI at SemEval-2023 Task 2: A Universal System for Named Entity Recognition with External Entity Information**|Long Ma et.al.|[2305.06099](http://arxiv.org/abs/2305.06099)|**[link](https://github.com/diqiuzhuanzhuan/semeval-2023)**|
+|**2023-05-10**|**Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? An Examination on Several Typical Tasks**|Xianzhi Li et.al.|[2305.05862](http://arxiv.org/abs/2305.05862)|null|
+|**2023-05-10**|**Extracting Complex Named Entities in Legal Documents via Weakly Supervised Object Detection**|Hsiu-Wei Yang et.al.|[2305.05836](http://arxiv.org/abs/2305.05836)|null|
+|**2023-05-11**|**CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors**|Peng Li et.al.|[2305.05711](http://arxiv.org/abs/2305.05711)|null|
 |**2023-05-09**|**Attack Named Entity Recognition by Entity Boundary Interference**|Yifei Yang et.al.|[2305.05253](http://arxiv.org/abs/2305.05253)|null|
 |**2023-05-05**|**A transformer-based method for zero and few-shot biomedical named entity recognition**|Miloš Košprdić et.al.|[2305.04928](http://arxiv.org/abs/2305.04928)|**[link](https://github.com/br-ai-ns-institute/zero-shotner)**|
 |**2023-05-08**|**Toward Adversarial Training on Contextualized Language Representation**|Hongqiu Wu et.al.|[2305.04557](http://arxiv.org/abs/2305.04557)|**[link](https://github.com/gingasan/creat)**|
@@ -1604,6 +1614,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**$2 * n$ is better than $n^2$ : Decomposing Event Coreference Resolution into Two Tractable Problems**|Shafiuddin Rehan Ahmed et.al.|[2305.05672](http://arxiv.org/abs/2305.05672)|**[link](https://github.com/ahmeshaf/lemma_ce_coref)**|
 |**2023-04-27**|**Entity-Level Sentiment Analysis (ELSA): An exploratory task survey**|Egil Rønningstad et.al.|[2304.14241](http://arxiv.org/abs/2304.14241)|**[link](https://github.com/egilron/elsa-introduction)**|
 |**2023-04-19**|**Radar de Parité: An NLP system to measure gender representation in French news stories**|Valentin-Gabriel Soumah et.al.|[2304.09982](http://arxiv.org/abs/2304.09982)|null|
 |**2023-04-07**|**BenCoref: A Multi-Domain Dataset of Nominal Phrases and Pronominal Reference Annotations**|Shadman Rohan et.al.|[2304.03682](http://arxiv.org/abs/2304.03682)|**[link](https://github.com/shadmanrohan/bencoref)**|
