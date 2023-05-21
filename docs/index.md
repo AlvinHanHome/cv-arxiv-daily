@@ -1,4 +1,4 @@
-## Updated on 2023.05.16
+## Updated on 2023.05.21
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**The Water Health Open Knowledge Graph**|Gianluca Carletti et.al.|[2305.11051](http://arxiv.org/abs/2305.11051)|null|
+|**2023-05-17**|**Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning**|Dong-Ho Lee et.al.|[2305.10613](http://arxiv.org/abs/2305.10613)|null|
+|**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563](http://arxiv.org/abs/2305.10563)|null|
+|**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531](http://arxiv.org/abs/2305.10531)|null|
+|**2023-05-17**|**Analysing Biomedical Knowledge Graphs using Prime Adjacency Matrices**|Konstantinos Bougiatiotis et.al.|[2305.10467](http://arxiv.org/abs/2305.10467)|**[link](https://github.com/kbogas/pam_cbms)**|
+|**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172](http://arxiv.org/abs/2305.10172)|null|
+|**2023-05-17**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning**|Kai Wang et.al.|[2305.09974](http://arxiv.org/abs/2305.09974)|null|
+|**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858](http://arxiv.org/abs/2305.09858)|null|
+|**2023-05-16**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729](http://arxiv.org/abs/2305.09729)|**[link](https://github.com/cynricfu/fedhgn)**|
+|**2023-05-16**|**Growing and Serving Large Open-domain Knowledge Graphs**|Ihab F. Ilyas et.al.|[2305.09464](http://arxiv.org/abs/2305.09464)|null|
 |**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633](http://arxiv.org/abs/2305.07633)|null|
 |**2023-05-11**|**FactKG: Fact Verification via Reasoning on Knowledge Graphs**|Jiho Kim et.al.|[2305.06590](http://arxiv.org/abs/2305.06590)|null|
 |**2023-05-15**|**HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level**|Haoran Luo et.al.|[2305.06588](http://arxiv.org/abs/2305.06588)|**[link](https://github.com/lhrlab/hahe)**|
@@ -1555,6 +1565,12 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**SPSQL: Step-by-step Parsing Based Framework for Text-to-SQL Generation**|Ran Shen et.al.|[2305.11061](http://arxiv.org/abs/2305.11061)|null|
+|**2023-05-18**|**Learning In-context Learning for Named Entity Recognition**|Jiawei Chen et.al.|[2305.11038](http://arxiv.org/abs/2305.11038)|**[link](https://github.com/chen700564/metaner-icl)**|
+|**2023-05-18**|**BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER**|Sreyan Ghosh et.al.|[2305.10647](http://arxiv.org/abs/2305.10647)|**[link](https://github.com/Sreyan88/BioAug)**|
+|**2023-05-17**|**UniEX: An Effective and Efficient Framework for Unified Information Extraction via a Span-extractive Perspective**|Junyu Lu et.al.|[2305.10306](http://arxiv.org/abs/2305.10306)|null|
+|**2023-05-15**|**A Novel Framework for Multimodal Named Entity Recognition with Multi-level Alignments**|Peipei Liu et.al.|[2305.08372](http://arxiv.org/abs/2305.08372)|null|
+|**2023-05-14**|**MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling**|Yu Song et.al.|[2305.08264](http://arxiv.org/abs/2305.08264)|**[link](https://github.com/banglab-udem-mila/nlp4matsci-acl23)**|
 |**2023-05-12**|**Gaussian Prior Reinforcement Learning for Nested Named Entity Recognition**|Yawen Yang et.al.|[2305.07266](http://arxiv.org/abs/2305.07266)|null|
 |**2023-05-11**|**SemEval-2023 Task 2: Fine-grained Multilingual Named Entity Recognition (MultiCoNER 2)**|Besnik Fetahu et.al.|[2305.06586](http://arxiv.org/abs/2305.06586)|null|
 |**2023-05-10**|**Korean Named Entity Recognition Based on Language-Specific Features**|Yige Chen et.al.|[2305.06330](http://arxiv.org/abs/2305.06330)|null|
@@ -1591,6 +1607,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-14**|**A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment**|Jiyue Jiang et.al.|[2305.08200](http://arxiv.org/abs/2305.08200)|**[link](https://github.com/jiangjyjy/csd)**|
 |**2023-05-12**|**Towards Versatile and Efficient Visual Knowledge Injection into Pre-trained Language Models with Cross-Modal Adapters**|Xinyun Zhang et.al.|[2305.07358](http://arxiv.org/abs/2305.07358)|null|
 |**2023-05-07**|**Empowering Language Model with Guided Knowledge Fusion for Biomedical Document Re-ranking**|Deepak Gupta et.al.|[2305.04344](http://arxiv.org/abs/2305.04344)|null|
 |**2023-04-28**|**Improving Knowledge Graph Entity Alignment with Graph Augmentation**|Feng Xie et.al.|[2304.14585](http://arxiv.org/abs/2304.14585)|**[link](https://github.com/xiefeng69/gaea)**|
@@ -1622,6 +1639,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**It Takes Two to Tango: Navigating Conceptualizations of NLP Tasks and Measurements of Performance**|Arjun Subramonian et.al.|[2305.09022](http://arxiv.org/abs/2305.09022)|null|
 |**2023-05-09**|**$2 * n$ is better than $n^2$ : Decomposing Event Coreference Resolution into Two Tractable Problems**|Shafiuddin Rehan Ahmed et.al.|[2305.05672](http://arxiv.org/abs/2305.05672)|**[link](https://github.com/ahmeshaf/lemma_ce_coref)**|
 |**2023-04-27**|**Entity-Level Sentiment Analysis (ELSA): An exploratory task survey**|Egil Rønningstad et.al.|[2304.14241](http://arxiv.org/abs/2304.14241)|**[link](https://github.com/egilron/elsa-introduction)**|
 |**2023-04-19**|**Radar de Parité: An NLP system to measure gender representation in French news stories**|Valentin-Gabriel Soumah et.al.|[2304.09982](http://arxiv.org/abs/2304.09982)|null|
