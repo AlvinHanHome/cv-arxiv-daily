@@ -1,4 +1,4 @@
-## Updated on 2023.05.22
+## Updated on 2023.05.26
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Collaborative Recommendation Model Based on Multi-modal Multi-view Attention Network: Movie and literature cases**|Zheng Hu et.al.|[2305.15159](http://arxiv.org/abs/2305.15159)|null|
+|**2023-05-24**|**The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing**|Debayan Banerjee et.al.|[2305.15108](http://arxiv.org/abs/2305.15108)|null|
+|**2023-05-24**|**A RelEntLess Benchmark for Modelling Graded Relations between Named Entities**|Asahi Ushio et.al.|[2305.15002](http://arxiv.org/abs/2305.15002)|null|
+|**2023-05-24**|**Revisit and Outstrip Entity Alignment: A Perspective of Generative Models**|Lingbing Guo et.al.|[2305.14651](http://arxiv.org/abs/2305.14651)|null|
+|**2023-05-23**|**Knowledge Graphs Querying**|Arijit Khan et.al.|[2305.14485](http://arxiv.org/abs/2305.14485)|null|
+|**2023-05-23**|**Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery**|Qingyun Wang et.al.|[2305.14259](http://arxiv.org/abs/2305.14259)|**[link](https://github.com/eaglew/clbd)**|
+|**2023-05-23**|**Complementing GPT-3 with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata**|Silei Xu et.al.|[2305.14202](http://arxiv.org/abs/2305.14202)|null|
+|**2023-05-23**|**To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion**|Rui Li et.al.|[2305.14126](http://arxiv.org/abs/2305.14126)|**[link](https://github.com/rui9812/vlp)**|
+|**2023-05-23**|**Message Intercommunication for Inductive Relation Reasoning**|Ke Liang et.al.|[2305.14074](http://arxiv.org/abs/2305.14074)|null|
+|**2023-05-23**|**Conversational Recommendation as Retrieval: A Simple, Strong Baseline**|Raghav Gupta et.al.|[2305.13725](http://arxiv.org/abs/2305.13725)|null|
 |**2023-05-18**|**The Water Health Open Knowledge Graph**|Gianluca Carletti et.al.|[2305.11051](http://arxiv.org/abs/2305.11051)|null|
 |**2023-05-17**|**Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning**|Dong-Ho Lee et.al.|[2305.10613](http://arxiv.org/abs/2305.10613)|null|
 |**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563](http://arxiv.org/abs/2305.10563)|null|
@@ -1565,6 +1575,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition**|Tingting Ma et.al.|[2305.14913](http://arxiv.org/abs/2305.14913)|**[link](https://github.com/microsoft/vert-papers)**|
+|**2023-05-24**|**Large Language Models as Counterfactual Generator: Strengths and Weaknesses**|Yongqi Li et.al.|[2305.14791](http://arxiv.org/abs/2305.14791)|null|
+|**2023-05-23**|**BAND: Biomedical Alert News Dataset**|Zihao Fu et.al.|[2305.14480](http://arxiv.org/abs/2305.14480)|null|
+|**2023-05-23**|**AxomiyaBERTa: A Phonologically-aware Transformer Model for Assamese**|Abhijnan Nath et.al.|[2305.13641](http://arxiv.org/abs/2305.13641)|**[link](https://github.com/csu-signal/axomiyaberta)**|
+|**2023-05-23**|**Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning**|Ran Zhou et.al.|[2305.13628](http://arxiv.org/abs/2305.13628)|null|
+|**2023-05-24**|**Better Low-Resource Entity Recognition Through Translation and Annotation Fusion**|Yang Chen et.al.|[2305.13582](http://arxiv.org/abs/2305.13582)|**[link](https://github.com/edchengg/transfusion)**|
+|**2023-05-22**|**DiffusionNER: Boundary Diffusion for Named Entity Recognition**|Yongliang Shen et.al.|[2305.13298](http://arxiv.org/abs/2305.13298)|**[link](https://github.com/tricktreat/diffusionner)**|
+|**2023-05-22**|**Taxonomy Expansion for Named Entity Recognition**|Karthikeyan K et.al.|[2305.13191](http://arxiv.org/abs/2305.13191)|null|
+|**2023-05-22**|**Better Sampling of Negatives for Distantly Supervised Named Entity Recognition**|Lu Xu et.al.|[2305.13142](http://arxiv.org/abs/2305.13142)|**[link](https://github.com/xuuuluuu/ds_ner)**|
+|**2023-05-22**|**Partial Annotation Learning for Biomedical Entity Recognition**|Liangping Ding et.al.|[2305.13120](http://arxiv.org/abs/2305.13120)|null|
 |**2023-05-10**|**SPSQL: Step-by-step Parsing Based Framework for Text-to-SQL Generation**|Ran Shen et.al.|[2305.11061](http://arxiv.org/abs/2305.11061)|null|
 |**2023-05-18**|**Learning In-context Learning for Named Entity Recognition**|Jiawei Chen et.al.|[2305.11038](http://arxiv.org/abs/2305.11038)|**[link](https://github.com/chen700564/metaner-icl)**|
 |**2023-05-18**|**BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER**|Sreyan Ghosh et.al.|[2305.10647](http://arxiv.org/abs/2305.10647)|**[link](https://github.com/Sreyan88/BioAug)**|
@@ -1624,6 +1644,9 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Flexible Grammar-Based Constrained Decoding for Language Models**|Saibo Geng et.al.|[2305.13971](http://arxiv.org/abs/2305.13971)|null|
+|**2023-05-21**|**Direct Fact Retrieval from Knowledge Graphs without Entity Linking**|Jinheon Baek et.al.|[2305.12416](http://arxiv.org/abs/2305.12416)|null|
+|**2023-05-19**|**Polar Ducks and Where to Find Them: Enhancing Entity Linking with Duck Typing and Polar Box Embeddings**|Mattia Atzeni et.al.|[2305.12027](http://arxiv.org/abs/2305.12027)|null|
 |**2023-03-18**|**Exploring Partial Knowledge Base Inference in Biomedical Entity Linking**|Hongyi Yuan et.al.|[2303.10330](http://arxiv.org/abs/2303.10330)|null|
 |**2023-04-15**|**Disambiguation of Company names via Deep Recurrent Networks**|Alessandro Basile et.al.|[2303.05391](http://arxiv.org/abs/2303.05391)|**[link](https://github.com/rcrupiisp/siamesedisambiguation)**|
 |**2023-02-17**|**KILM: Knowledge Injection into Encoder-Decoder Language Models**|Yan Xu et.al.|[2302.09170](http://arxiv.org/abs/2302.09170)|**[link](https://github.com/alexa/kilm)**|
@@ -1639,6 +1662,10 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Comparing Humans and Models on a Similar Scale: Towards Cognitive Gender Bias Evaluation in Coreference Resolution**|Gili Lior et.al.|[2305.15389](http://arxiv.org/abs/2305.15389)|null|
+|**2023-05-24**|**Learning the String Partial Order**|Tianyu Liu et.al.|[2305.15057](http://arxiv.org/abs/2305.15057)|null|
+|**2023-05-24**|**COMET-M: Reasoning about Multiple Events in Complex Sentences**|Sahithya Ravi et.al.|[2305.14617](http://arxiv.org/abs/2305.14617)|null|
+|**2023-05-23**|**Are Large Language Models Robust Zero-shot Coreference Resolvers?**|Nghia T. Le et.al.|[2305.14489](http://arxiv.org/abs/2305.14489)|null|
 |**2023-05-15**|**It Takes Two to Tango: Navigating Conceptualizations of NLP Tasks and Measurements of Performance**|Arjun Subramonian et.al.|[2305.09022](http://arxiv.org/abs/2305.09022)|null|
 |**2023-05-09**|**$2 * n$ is better than $n^2$ : Decomposing Event Coreference Resolution into Two Tractable Problems**|Shafiuddin Rehan Ahmed et.al.|[2305.05672](http://arxiv.org/abs/2305.05672)|**[link](https://github.com/ahmeshaf/lemma_ce_coref)**|
 |**2023-04-27**|**Entity-Level Sentiment Analysis (ELSA): An exploratory task survey**|Egil Rønningstad et.al.|[2304.14241](http://arxiv.org/abs/2304.14241)|**[link](https://github.com/egilron/elsa-introduction)**|
