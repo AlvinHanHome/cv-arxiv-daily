@@ -1,4 +1,4 @@
-## Updated on 2023.05.29
+## Updated on 2023.05.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256](http://arxiv.org/abs/2305.18256)|null|
+|**2023-05-29**|**Sequential Condition Evolved Interaction Knowledge Graph for Traditional Chinese Medicine Recommendation**|Jingjin Liu et.al.|[2305.17866](http://arxiv.org/abs/2305.17866)|null|
+|**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667](http://arxiv.org/abs/2305.17667)|null|
+|**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364](http://arxiv.org/abs/2305.17364)|**[link](https://github.com/abachaa/evaluationmetrics-acl23)**|
+|**2023-05-26**|**A Categorical Representation Language and Computational System for Knowledge-Based Planning**|Angeline Aguinaldo et.al.|[2305.17208](http://arxiv.org/abs/2305.17208)|null|
+|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
+|**2023-05-26**|**Can large language models generate salient negative statements?**|Hiba Arnaout et.al.|[2305.16755](http://arxiv.org/abs/2305.16755)|null|
+|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944](http://arxiv.org/abs/2305.15944)|**[link](https://github.com/anongekc/gekcs)**|
+|**2023-05-25**|**BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering**|Jie He et.al.|[2305.15932](http://arxiv.org/abs/2305.15932)|null|
+|**2023-05-25**|**Collective Knowledge Graph Completion with Mutual Knowledge Distillation**|Weihang Zhang et.al.|[2305.15895](http://arxiv.org/abs/2305.15895)|null|
 |**2023-05-24**|**Collaborative Recommendation Model Based on Multi-modal Multi-view Attention Network: Movie and literature cases**|Zheng Hu et.al.|[2305.15159](http://arxiv.org/abs/2305.15159)|null|
 |**2023-05-24**|**The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing**|Debayan Banerjee et.al.|[2305.15108](http://arxiv.org/abs/2305.15108)|**[link](https://github.com/debayan/sparql-vocab-substitution)**|
 |**2023-05-24**|**A RelEntLess Benchmark for Modelling Graded Relations between Named Entities**|Asahi Ushio et.al.|[2305.15002](http://arxiv.org/abs/2305.15002)|null|
@@ -60,12 +70,21 @@
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## NER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Extrinsic Factors Affecting the Accuracy of Biomedical NER**|Zhiyi Li et.al.|[2305.18152](http://arxiv.org/abs/2305.18152)|null|
+|**2023-05-29**|**ContrastNER: Contrastive-based Prompt Tuning for Few-shot NER**|Amirhossein Layegh et.al.|[2305.17951](http://arxiv.org/abs/2305.17951)|null|
+|**2023-05-29**|**E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition**|Zhen Zhang et.al.|[2305.17854](http://arxiv.org/abs/2305.17854)|**[link](https://github.com/leon-bit-9527/ener)**|
+|**2023-05-27**|**Complementary and Integrative Health Lexicon (CIHLex) and Entity Recognition in the Literature**|Huixue Zhou et.al.|[2305.17353](http://arxiv.org/abs/2305.17353)|null|
+|**2023-05-26**|**PromptNER: Prompt Locating and Typing for Named Entity Recognition**|Yongliang Shen et.al.|[2305.17104](http://arxiv.org/abs/2305.17104)|null|
+|**2023-05-26**|**People and Places of Historical Europe: Bootstrapping Annotation Pipeline and a New Corpus of Named Entities in Late Medieval Texts**|Vít Novotný et.al.|[2305.16718](http://arxiv.org/abs/2305.16718)|null|
+|**2023-05-25**|**Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation**|Yandan Zheng et.al.|[2305.15872](http://arxiv.org/abs/2305.15872)|null|
+|**2023-05-24**|**Automated Refugee Case Analysis: An NLP Pipeline for Supporting Legal Practitioners**|Claire Barale et.al.|[2305.15533](http://arxiv.org/abs/2305.15533)|**[link](https://github.com/clairebarale/refugee_cases_ner)**|
+|**2023-05-24**|**PromptNER: Prompting For Named Entity Recognition**|Dhananjay Ashok et.al.|[2305.15444](http://arxiv.org/abs/2305.15444)|null|
 |**2023-05-24**|**CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition**|Tingting Ma et.al.|[2305.14913](http://arxiv.org/abs/2305.14913)|**[link](https://github.com/microsoft/vert-papers)**|
 |**2023-05-24**|**Large Language Models as Counterfactual Generator: Strengths and Weaknesses**|Yongqi Li et.al.|[2305.14791](http://arxiv.org/abs/2305.14791)|null|
 |**2023-05-23**|**BAND: Biomedical Alert News Dataset**|Zihao Fu et.al.|[2305.14480](http://arxiv.org/abs/2305.14480)|null|
@@ -102,7 +121,7 @@
 |**2023-05-04**|**USTC-NELSLIP at SemEval-2023 Task 2: Statistical Construction and Dual Adaptation of Gazetteer for Multilingual Complex NER**|Jun-Yu Ma et.al.|[2305.02517](http://arxiv.org/abs/2305.02517)|null|
 |**2023-05-03**|**Causal Interventions-based Few-Shot Named Entity Recognition**|Zhen Yang et.al.|[2305.01914](http://arxiv.org/abs/2305.01914)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## ERE
 
@@ -116,7 +135,7 @@
 |**2022-01-14**|**The Lokahi Prototype: Toward the automatic Extraction of Entity Relationship Models from Text**|Michael Kaufmann et.al.|[2201.05327](http://arxiv.org/abs/2201.05327)|null|
 |**2008-04-02**|**Parts-of-Speech Tagger Errors Do Not Necessarily Degrade Accuracy in Extracting Information from Biomedical Text**|Maurice HT Ling et.al.|[0804.0317](http://arxiv.org/abs/0804.0317)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## KF
 
@@ -135,7 +154,7 @@
 |**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019](http://arxiv.org/abs/2302.05019)|null|
 |**2023-04-28**|**Dataless Knowledge Fusion by Merging Weights of Language Models**|Xisen Jin et.al.|[2212.09849](http://arxiv.org/abs/2212.09849)|**[link](https://github.com/bloomberg/dataless-model-merging)**|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## ED
 
@@ -155,12 +174,14 @@
 |**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106](http://arxiv.org/abs/2207.04106)|null|
 |**2022-04-20**|**LingYi: Medical Conversational Question Answering System based on Multi-modal Knowledge Graphs**|Fei Xia et.al.|[2204.09220](http://arxiv.org/abs/2204.09220)|**[link](https://github.com/wengsyx/lingyi)**|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 ## CR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-28**|**Parallel Data Helps Neural Entity Coreference Resolution**|Gongbo Tang et.al.|[2305.17709](http://arxiv.org/abs/2305.17709)|null|
+|**2023-05-26**|**Sentence-Incremental Neural Coreference Resolution**|Matt Grenander et.al.|[2305.16947](http://arxiv.org/abs/2305.16947)|**[link](https://github.com/mgrenander/sentence-incremental-coref)**|
 |**2023-05-24**|**Comparing Humans and Models on a Similar Scale: Towards Cognitive Gender Bias Evaluation in Coreference Resolution**|Gili Lior et.al.|[2305.15389](http://arxiv.org/abs/2305.15389)|null|
 |**2023-05-24**|**Learning the String Partial Order**|Tianyu Liu et.al.|[2305.15057](http://arxiv.org/abs/2305.15057)|null|
 |**2023-05-24**|**COMET-M: Reasoning about Multiple Events in Complex Sentences**|Sahithya Ravi et.al.|[2305.14617](http://arxiv.org/abs/2305.14617)|null|
@@ -178,7 +199,7 @@
 |**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842](http://arxiv.org/abs/2302.01842)|**[link](https://github.com/vladimir-ershov/adgm-kg1)**|
 |**2023-02-03**|**AmbiCoref: Evaluating Human and Model Sensitivity to Ambiguous Coreference**|Yuewei Yuan et.al.|[2302.00762](http://arxiv.org/abs/2302.00762)|**[link](https://github.com/lucyyyw/ambicoref)**|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
