@@ -1,4 +1,4 @@
-## Updated on 2023.06.06
+## Updated on 2023.06.11
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814](http://arxiv.org/abs/2306.04814)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
+|**2023-06-07**|**A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises**|Hejie Cui et.al.|[2306.04802](http://arxiv.org/abs/2306.04802)|null|
+|**2023-06-07**|**Enabling tabular deep learning when $d \gg n$ with an auxiliary knowledge graph**|Camilo Ruiz et.al.|[2306.04766](http://arxiv.org/abs/2306.04766)|null|
+|**2023-06-07**|**SKG: A Versatile Information Retrieval and Analysis Framework for Academic Papers with Semantic Knowledge Graphs**|Yamei Tu et.al.|[2306.04758](http://arxiv.org/abs/2306.04758)|null|
+|**2023-06-07**|**Leveraging Knowledge Graph Embeddings to Enhance Contextual Representations for Relation Extraction**|Fréjus A. A. Laleye et.al.|[2306.04203](http://arxiv.org/abs/2306.04203)|null|
+|**2023-06-07**|**Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering**|Jinheon Baek et.al.|[2306.04136](http://arxiv.org/abs/2306.04136)|null|
+|**2023-06-06**|**Triggering Multi-Hop Reasoning for Question Answering in Language Models using Soft Prompts and Random Walks**|Kanishka Misra et.al.|[2306.04009](http://arxiv.org/abs/2306.04009)|null|
+|**2023-06-07**|**Patient Dropout Prediction in Virtual Health: A Multimodal Dynamic Knowledge Graph and Text Mining Approach**|Shuang Geng et.al.|[2306.03833](http://arxiv.org/abs/2306.03833)|**[link](https://github.com/mdkdp/mdkdp)**|
+|**2023-06-06**|**Schema First! Learn Versatile Knowledge Graph Embeddings by Capturing Semantics with MASCHInE**|Nicolas Hubert et.al.|[2306.03659](http://arxiv.org/abs/2306.03659)|**[link](https://github.com/nicolas-hbt/versatile-embeddings)**|
+|**2023-06-06**|**BioBLP: A Modular Framework for Learning on Multimodal Biomedical Knowledge Graphs**|Daniel Daza et.al.|[2306.03606](http://arxiv.org/abs/2306.03606)|**[link](https://github.com/elsevier-ai-lab/bioblp)**|
 |**2023-06-02**|**Gode -- Integrating Biochemical Knowledge Graph into Pre-training Molecule Graph Neural Network**|Pengcheng Jiang et.al.|[2306.01631](http://arxiv.org/abs/2306.01631)|null|
 |**2023-06-02**|**CLIPGraphs: Multimodal Graph Networks to Infer Object-Room Affinities**|Ayush Agrawal et.al.|[2306.01540](http://arxiv.org/abs/2306.01540)|null|
 |**2023-06-02**|**Knowledge Graph Reasoning over Entities and Numerical Values**|Jiaxin Bai et.al.|[2306.01399](http://arxiv.org/abs/2306.01399)|**[link](https://github.com/hkust-knowcomp/nrn)**|
@@ -1599,6 +1609,13 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Advancing Italian Biomedical Information Extraction with Large Language Models: Methodological Insights and Multicenter Practical Application**|Claudio Crema et.al.|[2306.05323](http://arxiv.org/abs/2306.05323)|null|
+|**2023-06-07**|**Multilingual Clinical NER: Translation or Cross-lingual Transfer?**|Xavier Fontaine et.al.|[2306.04384](http://arxiv.org/abs/2306.04384)|null|
+|**2023-06-06**|**TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition**|Jiang Liu et.al.|[2306.03974](http://arxiv.org/abs/2306.03974)|null|
+|**2023-06-05**|**Stack Over-Flowing with Results: The Case for Domain-Specific Pre-Training Over One-Size-Fits-All Models**|Manisha Mukherjee et.al.|[2306.03268](http://arxiv.org/abs/2306.03268)|null|
+|**2023-06-05**|**Transformer-Based UNet with Multi-Headed Cross-Attention Skip Connections to Eliminate Artifacts in Scanned Documents**|David Kreuzer et.al.|[2306.02815](http://arxiv.org/abs/2306.02815)|null|
+|**2023-06-07**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349](http://arxiv.org/abs/2306.02349)|**[link](https://github.com/bgglue/bgglue.github.io)**|
+|**2023-06-03**|**Impact of translation on biomedical information extraction from real-life clinical notes**|Christel Gérardin et.al.|[2306.02042](http://arxiv.org/abs/2306.02042)|null|
 |**2023-06-02**|**Data-Efficient French Language Modeling with CamemBERTa**|Wissam Antoun et.al.|[2306.01497](http://arxiv.org/abs/2306.01497)|null|
 |**2023-06-01**|**Learning Transformer Programs**|Dan Friedman et.al.|[2306.01128](http://arxiv.org/abs/2306.01128)|**[link](https://github.com/princeton-nlp/transformerprograms)**|
 |**2023-06-01**|**ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER**|Sreyan Ghosh et.al.|[2306.00928](http://arxiv.org/abs/2306.00928)|**[link](https://github.com/sreyan88/aclm)**|
@@ -1703,6 +1720,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-03**|**GENTLE: A Genre-Diverse Multilayer Challenge Set for English NLP and Linguistic Evaluation**|Tatsuya Aoyama et.al.|[2306.01966](http://arxiv.org/abs/2306.01966)|null|
 |**2023-06-02**|**Light Coreference Resolution for Russian with Hierarchical Discourse Features**|Elena Chistova et.al.|[2306.01465](http://arxiv.org/abs/2306.01465)|**[link](https://github.com/tchewik/corefhd)**|
 |**2023-05-30**|**Examining risks of racial biases in NLP tools for child protective services**|Anjalie Field et.al.|[2305.19409](http://arxiv.org/abs/2305.19409)|null|
 |**2023-05-28**|**Parallel Data Helps Neural Entity Coreference Resolution**|Gongbo Tang et.al.|[2305.17709](http://arxiv.org/abs/2305.17709)|null|
