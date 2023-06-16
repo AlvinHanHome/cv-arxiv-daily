@@ -1,4 +1,4 @@
-## Updated on 2023.06.12
+## Updated on 2023.06.16
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,10 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Contextual Dictionary Lookup for Knowledge Graph Completion**|Jining Wang et.al.|[2306.07719](http://arxiv.org/abs/2306.07719)|null|
+|**2023-06-13**|**Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2306.07512](http://arxiv.org/abs/2306.07512)|null|
+|**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302](http://arxiv.org/abs/2306.06302)|null|
+|**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814](http://arxiv.org/abs/2306.04814)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
 |**2023-06-07**|**A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises**|Hejie Cui et.al.|[2306.04802](http://arxiv.org/abs/2306.04802)|null|
 |**2023-06-07**|**Enabling tabular deep learning when $d \gg n$ with an auxiliary knowledge graph**|Camilo Ruiz et.al.|[2306.04766](http://arxiv.org/abs/2306.04766)|null|
@@ -1609,9 +1613,12 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**MOFI: Learning Image Representations from Noisy Entity Annotated Images**|Wentao Wu et.al.|[2306.07952](http://arxiv.org/abs/2306.07952)|null|
+|**2023-06-11**|**RoBERTweet: A BERT Language Model for Romanian Tweets**|Iulian-Marius Tăiatu et.al.|[2306.06598](http://arxiv.org/abs/2306.06598)|null|
+|**2023-06-10**|**Enhancing Low Resource NER Using Assisting Language And Transfer Learning**|Maithili Sabane et.al.|[2306.06477](http://arxiv.org/abs/2306.06477)|null|
 |**2023-06-08**|**Advancing Italian Biomedical Information Extraction with Large Language Models: Methodological Insights and Multicenter Practical Application**|Claudio Crema et.al.|[2306.05323](http://arxiv.org/abs/2306.05323)|null|
 |**2023-06-07**|**Multilingual Clinical NER: Translation or Cross-lingual Transfer?**|Xavier Fontaine et.al.|[2306.04384](http://arxiv.org/abs/2306.04384)|null|
-|**2023-06-06**|**TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition**|Jiang Liu et.al.|[2306.03974](http://arxiv.org/abs/2306.03974)|null|
+|**2023-06-10**|**TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition**|Jiang Liu et.al.|[2306.03974](http://arxiv.org/abs/2306.03974)|null|
 |**2023-06-05**|**Stack Over-Flowing with Results: The Case for Domain-Specific Pre-Training Over One-Size-Fits-All Models**|Manisha Mukherjee et.al.|[2306.03268](http://arxiv.org/abs/2306.03268)|null|
 |**2023-06-05**|**Transformer-Based UNet with Multi-Headed Cross-Attention Skip Connections to Eliminate Artifacts in Scanned Documents**|David Kreuzer et.al.|[2306.02815](http://arxiv.org/abs/2306.02815)|null|
 |**2023-06-07**|**bgGLUE: A Bulgarian General Language Understanding Evaluation Benchmark**|Momchil Hardalov et.al.|[2306.02349](http://arxiv.org/abs/2306.02349)|**[link](https://github.com/bgglue/bgglue.github.io)**|
@@ -1720,6 +1727,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**How Good is the Model in Model-in-the-loop Event Coreference Resolution Annotation?**|Shafiuddin Rehan Ahmed et.al.|[2306.05434](http://arxiv.org/abs/2306.05434)|**[link](https://github.com/ahmeshaf/model_in_coref)**|
 |**2023-06-03**|**GENTLE: A Genre-Diverse Multilayer Challenge Set for English NLP and Linguistic Evaluation**|Tatsuya Aoyama et.al.|[2306.01966](http://arxiv.org/abs/2306.01966)|null|
 |**2023-06-02**|**Light Coreference Resolution for Russian with Hierarchical Discourse Features**|Elena Chistova et.al.|[2306.01465](http://arxiv.org/abs/2306.01465)|**[link](https://github.com/tchewik/corefhd)**|
 |**2023-05-30**|**Examining risks of racial biases in NLP tools for child protective services**|Anjalie Field et.al.|[2305.19409](http://arxiv.org/abs/2305.19409)|null|
