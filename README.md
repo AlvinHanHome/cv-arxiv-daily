@@ -1,4 +1,4 @@
-## Updated on 2023.06.16
+## Updated on 2023.06.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -32,7 +32,7 @@
 |**2023-06-02**|**Gode -- Integrating Biochemical Knowledge Graph into Pre-training Molecule Graph Neural Network**|Pengcheng Jiang et.al.|[2306.01631](http://arxiv.org/abs/2306.01631)|null|
 |**2023-06-02**|**CLIPGraphs: Multimodal Graph Networks to Infer Object-Room Affinities**|Ayush Agrawal et.al.|[2306.01540](http://arxiv.org/abs/2306.01540)|null|
 |**2023-06-02**|**Knowledge Graph Reasoning over Entities and Numerical Values**|Jiaxin Bai et.al.|[2306.01399](http://arxiv.org/abs/2306.01399)|**[link](https://github.com/hkust-knowcomp/nrn)**|
-|**2023-06-01**|**Column Type Annotation using ChatGPT**|Keti Korini et.al.|[2306.00745](http://arxiv.org/abs/2306.00745)|null|
+|**2023-06-01**|**Column Type Annotation using ChatGPT**|Keti Korini et.al.|[2306.00745](http://arxiv.org/abs/2306.00745)|**[link](https://github.com/wbsg-uni-mannheim/tabanngpt)**|
 |**2023-05-31**|**Research And Implementation Of Drug Target Interaction Confidence Measurement Method Based On Causal Intervention**|Wenting Ye et.al.|[2306.00041](http://arxiv.org/abs/2306.00041)|null|
 |**2023-05-31**|**Knowledge Graph Embedding with Electronic Health Records Data via Latent Graphical Block Model**|Junwei Lu et.al.|[2305.19997](http://arxiv.org/abs/2305.19997)|null|
 |**2023-06-01**|**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**|Jaejun Lee et.al.|[2305.19987](http://arxiv.org/abs/2305.19987)|**[link](https://github.com/bdi-lab/ingram)**|
@@ -98,7 +98,7 @@
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## NER
 
@@ -167,7 +167,7 @@
 |**2023-05-04**|**USTC-NELSLIP at SemEval-2023 Task 2: Statistical Construction and Dual Adaptation of Gazetteer for Multilingual Complex NER**|Jun-Yu Ma et.al.|[2305.02517](http://arxiv.org/abs/2305.02517)|null|
 |**2023-05-03**|**Causal Interventions-based Few-Shot Named Entity Recognition**|Zhen Yang et.al.|[2305.01914](http://arxiv.org/abs/2305.01914)|null|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## ERE
 
@@ -181,7 +181,7 @@
 |**2022-01-14**|**The Lokahi Prototype: Toward the automatic Extraction of Entity Relationship Models from Text**|Michael Kaufmann et.al.|[2201.05327](http://arxiv.org/abs/2201.05327)|null|
 |**2008-04-02**|**Parts-of-Speech Tagger Errors Do Not Necessarily Degrade Accuracy in Extracting Information from Biomedical Text**|Maurice HT Ling et.al.|[0804.0317](http://arxiv.org/abs/0804.0317)|null|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## KF
 
@@ -200,7 +200,7 @@
 |**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019](http://arxiv.org/abs/2302.05019)|null|
 |**2023-04-28**|**Dataless Knowledge Fusion by Merging Weights of Language Models**|Xisen Jin et.al.|[2212.09849](http://arxiv.org/abs/2212.09849)|**[link](https://github.com/bloomberg/dataless-model-merging)**|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## ED
 
@@ -220,7 +220,7 @@
 |**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106](http://arxiv.org/abs/2207.04106)|null|
 |**2022-04-20**|**LingYi: Medical Conversational Question Answering System based on Multi-modal Knowledge Graphs**|Fei Xia et.al.|[2204.09220](http://arxiv.org/abs/2204.09220)|**[link](https://github.com/wengsyx/lingyi)**|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 ## CR
 
@@ -232,14 +232,14 @@
 |**2023-05-30**|**Examining risks of racial biases in NLP tools for child protective services**|Anjalie Field et.al.|[2305.19409](http://arxiv.org/abs/2305.19409)|null|
 |**2023-05-28**|**Parallel Data Helps Neural Entity Coreference Resolution**|Gongbo Tang et.al.|[2305.17709](http://arxiv.org/abs/2305.17709)|null|
 |**2023-05-26**|**Sentence-Incremental Neural Coreference Resolution**|Matt Grenander et.al.|[2305.16947](http://arxiv.org/abs/2305.16947)|**[link](https://github.com/mgrenander/sentence-incremental-coref)**|
-|**2023-05-24**|**Comparing Humans and Models on a Similar Scale: Towards Cognitive Gender Bias Evaluation in Coreference Resolution**|Gili Lior et.al.|[2305.15389](http://arxiv.org/abs/2305.15389)|null|
+|**2023-05-24**|**Comparing Humans and Models on a Similar Scale: Towards Cognitive Gender Bias Evaluation in Coreference Resolution**|Gili Lior et.al.|[2305.15389](http://arxiv.org/abs/2305.15389)|**[link](https://github.com/slab-nlp/cog-gb-eval)**|
 |**2023-05-24**|**Learning the String Partial Order**|Tianyu Liu et.al.|[2305.15057](http://arxiv.org/abs/2305.15057)|null|
 |**2023-05-24**|**COMET-M: Reasoning about Multiple Events in Complex Sentences**|Sahithya Ravi et.al.|[2305.14617](http://arxiv.org/abs/2305.14617)|null|
 |**2023-05-23**|**Are Large Language Models Robust Zero-shot Coreference Resolvers?**|Nghia T. Le et.al.|[2305.14489](http://arxiv.org/abs/2305.14489)|null|
 |**2023-05-15**|**It Takes Two to Tango: Navigating Conceptualizations of NLP Tasks and Measurements of Performance**|Arjun Subramonian et.al.|[2305.09022](http://arxiv.org/abs/2305.09022)|null|
 |**2023-05-09**|**$2 * n$ is better than $n^2$ : Decomposing Event Coreference Resolution into Two Tractable Problems**|Shafiuddin Rehan Ahmed et.al.|[2305.05672](http://arxiv.org/abs/2305.05672)|**[link](https://github.com/ahmeshaf/lemma_ce_coref)**|
 |**2023-04-27**|**Entity-Level Sentiment Analysis (ELSA): An exploratory task survey**|Egil Rønningstad et.al.|[2304.14241](http://arxiv.org/abs/2304.14241)|**[link](https://github.com/egilron/elsa-introduction)**|
-|**2023-04-19**|**Radar de Parité: An NLP system to measure gender representation in French news stories**|Valentin-Gabriel Soumah et.al.|[2304.09982](http://arxiv.org/abs/2304.09982)|null|
+|**2023-04-19**|**Radar de Parité: An NLP system to measure gender representation in French news stories**|Valentin-Gabriel Soumah et.al.|[2304.09982](http://arxiv.org/abs/2304.09982)|**[link](https://github.com/sfu-discourse-lab/gendergaptracker)**|
 |**2023-04-07**|**BenCoref: A Multi-Domain Dataset of Nominal Phrases and Pronominal Reference Annotations**|Shadman Rohan et.al.|[2304.03682](http://arxiv.org/abs/2304.03682)|**[link](https://github.com/shadmanrohan/bencoref)**|
 |**2023-03-16**|**Investigating Failures to Generalize for Coreference Resolution Models**|Ian Porada et.al.|[2303.09092](http://arxiv.org/abs/2303.09092)|null|
 |**2023-03-04**|**Variational Quantum Classifiers for Natural-Language Text**|Daniel T. Chang et.al.|[2303.02469](http://arxiv.org/abs/2303.02469)|null|
@@ -249,7 +249,7 @@
 |**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842](http://arxiv.org/abs/2302.01842)|**[link](https://github.com/vladimir-ershov/adgm-kg1)**|
 |**2023-02-03**|**AmbiCoref: Evaluating Human and Model Sensitivity to Ambiguous Coreference**|Yuewei Yuan et.al.|[2302.00762](http://arxiv.org/abs/2302.00762)|**[link](https://github.com/lucyyyw/ambicoref)**|
 
-<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
