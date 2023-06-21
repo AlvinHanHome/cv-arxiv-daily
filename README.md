@@ -1,4 +1,4 @@
-## Updated on 2023.06.19
+## Updated on 2023.06.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**|Yu Lu et.al.|[2306.09631](http://arxiv.org/abs/2306.09631)|null|
+|**2023-06-15**|**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**|Qiao Qiao et.al.|[2306.09519](http://arxiv.org/abs/2306.09519)|null|
+|**2023-06-15**|**Sample-Efficient Learning of Novel Visual Concepts**|Sarthak Bhagat et.al.|[2306.09482](http://arxiv.org/abs/2306.09482)|null|
+|**2023-06-14**|**Recognizing Unseen Objects via Multimodal Intensive Knowledge Graph Propagation**|Likang Wu et.al.|[2306.08487](http://arxiv.org/abs/2306.08487)|null|
+|**2023-06-20**|**Unifying Large Language Models and Knowledge Graphs: A Roadmap**|Shirui Pan et.al.|[2306.08302](http://arxiv.org/abs/2306.08302)|null|
 |**2023-06-13**|**Contextual Dictionary Lookup for Knowledge Graph Completion**|Jining Wang et.al.|[2306.07719](http://arxiv.org/abs/2306.07719)|null|
 |**2023-06-13**|**Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2306.07512](http://arxiv.org/abs/2306.07512)|null|
 |**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302](http://arxiv.org/abs/2306.06302)|null|
@@ -98,12 +103,16 @@
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## NER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719](http://arxiv.org/abs/2306.09719)|null|
+|**2023-06-14**|**Improving Code-Switching and Named Entity Recognition in ASR with Speech Editing based Data Augmentation**|Zheng Liang et.al.|[2306.08588](http://arxiv.org/abs/2306.08588)|null|
+|**2023-06-14**|**Building a Corpus for Biomedical Relation Extraction of Species Mentions**|Oumaima El Khettari et.al.|[2306.08403](http://arxiv.org/abs/2306.08403)|null|
+|**2023-06-14**|**Research on Named Entity Recognition in Improved transformer with R-Drop structure**|Weidong Ji et.al.|[2306.08315](http://arxiv.org/abs/2306.08315)|null|
 |**2023-06-13**|**MOFI: Learning Image Representations from Noisy Entity Annotated Images**|Wentao Wu et.al.|[2306.07952](http://arxiv.org/abs/2306.07952)|null|
 |**2023-06-11**|**RoBERTweet: A BERT Language Model for Romanian Tweets**|Iulian-Marius Tăiatu et.al.|[2306.06598](http://arxiv.org/abs/2306.06598)|null|
 |**2023-06-10**|**Enhancing Low Resource NER Using Assisting Language And Transfer Learning**|Maithili Sabane et.al.|[2306.06477](http://arxiv.org/abs/2306.06477)|null|
@@ -167,7 +176,7 @@
 |**2023-05-04**|**USTC-NELSLIP at SemEval-2023 Task 2: Statistical Construction and Dual Adaptation of Gazetteer for Multilingual Complex NER**|Jun-Yu Ma et.al.|[2305.02517](http://arxiv.org/abs/2305.02517)|null|
 |**2023-05-03**|**Causal Interventions-based Few-Shot Named Entity Recognition**|Zhen Yang et.al.|[2305.01914](http://arxiv.org/abs/2305.01914)|null|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## ERE
 
@@ -181,7 +190,7 @@
 |**2022-01-14**|**The Lokahi Prototype: Toward the automatic Extraction of Entity Relationship Models from Text**|Michael Kaufmann et.al.|[2201.05327](http://arxiv.org/abs/2201.05327)|null|
 |**2008-04-02**|**Parts-of-Speech Tagger Errors Do Not Necessarily Degrade Accuracy in Extracting Information from Biomedical Text**|Maurice HT Ling et.al.|[0804.0317](http://arxiv.org/abs/0804.0317)|null|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## KF
 
@@ -200,7 +209,7 @@
 |**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019](http://arxiv.org/abs/2302.05019)|null|
 |**2023-04-28**|**Dataless Knowledge Fusion by Merging Weights of Language Models**|Xisen Jin et.al.|[2212.09849](http://arxiv.org/abs/2212.09849)|**[link](https://github.com/bloomberg/dataless-model-merging)**|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## ED
 
@@ -220,7 +229,7 @@
 |**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106](http://arxiv.org/abs/2207.04106)|null|
 |**2022-04-20**|**LingYi: Medical Conversational Question Answering System based on Multi-modal Knowledge Graphs**|Fei Xia et.al.|[2204.09220](http://arxiv.org/abs/2204.09220)|**[link](https://github.com/wengsyx/lingyi)**|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## CR
 
@@ -249,7 +258,7 @@
 |**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842](http://arxiv.org/abs/2302.01842)|**[link](https://github.com/vladimir-ershov/adgm-kg1)**|
 |**2023-02-03**|**AmbiCoref: Evaluating Human and Model Sensitivity to Ambiguous Coreference**|Yuewei Yuan et.al.|[2302.00762](http://arxiv.org/abs/2302.00762)|**[link](https://github.com/lucyyyw/ambicoref)**|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

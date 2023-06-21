@@ -1,4 +1,4 @@
-## Updated on 2023.06.19
+## Updated on 2023.06.21
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,11 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**|Yu Lu et.al.|[2306.09631](http://arxiv.org/abs/2306.09631)|null|
+|**2023-06-15**|**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**|Qiao Qiao et.al.|[2306.09519](http://arxiv.org/abs/2306.09519)|null|
+|**2023-06-15**|**Sample-Efficient Learning of Novel Visual Concepts**|Sarthak Bhagat et.al.|[2306.09482](http://arxiv.org/abs/2306.09482)|null|
+|**2023-06-14**|**Recognizing Unseen Objects via Multimodal Intensive Knowledge Graph Propagation**|Likang Wu et.al.|[2306.08487](http://arxiv.org/abs/2306.08487)|null|
+|**2023-06-20**|**Unifying Large Language Models and Knowledge Graphs: A Roadmap**|Shirui Pan et.al.|[2306.08302](http://arxiv.org/abs/2306.08302)|null|
 |**2023-06-13**|**Contextual Dictionary Lookup for Knowledge Graph Completion**|Jining Wang et.al.|[2306.07719](http://arxiv.org/abs/2306.07719)|null|
 |**2023-06-13**|**Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2306.07512](http://arxiv.org/abs/2306.07512)|null|
 |**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302](http://arxiv.org/abs/2306.06302)|null|
@@ -1613,6 +1618,10 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719](http://arxiv.org/abs/2306.09719)|null|
+|**2023-06-14**|**Improving Code-Switching and Named Entity Recognition in ASR with Speech Editing based Data Augmentation**|Zheng Liang et.al.|[2306.08588](http://arxiv.org/abs/2306.08588)|null|
+|**2023-06-14**|**Building a Corpus for Biomedical Relation Extraction of Species Mentions**|Oumaima El Khettari et.al.|[2306.08403](http://arxiv.org/abs/2306.08403)|null|
+|**2023-06-14**|**Research on Named Entity Recognition in Improved transformer with R-Drop structure**|Weidong Ji et.al.|[2306.08315](http://arxiv.org/abs/2306.08315)|null|
 |**2023-06-13**|**MOFI: Learning Image Representations from Noisy Entity Annotated Images**|Wentao Wu et.al.|[2306.07952](http://arxiv.org/abs/2306.07952)|null|
 |**2023-06-11**|**RoBERTweet: A BERT Language Model for Romanian Tweets**|Iulian-Marius Tăiatu et.al.|[2306.06598](http://arxiv.org/abs/2306.06598)|null|
 |**2023-06-10**|**Enhancing Low Resource NER Using Assisting Language And Transfer Learning**|Maithili Sabane et.al.|[2306.06477](http://arxiv.org/abs/2306.06477)|null|
