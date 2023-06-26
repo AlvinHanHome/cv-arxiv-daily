@@ -1,4 +1,4 @@
-## Updated on 2023.06.21
+## Updated on 2023.06.26
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802](http://arxiv.org/abs/2306.12802)|null|
+|**2023-06-22**|**Explainable Representations for Relation Prediction in Knowledge Graphs**|Rita T. Sousa et.al.|[2306.12687](http://arxiv.org/abs/2306.12687)|**[link](https://github.com/liseda-lab/seek)**|
+|**2023-06-21**|**Bidirectional End-to-End Learning of Retriever-Reader Paradigm for Entity Linking**|Yinghui Li et.al.|[2306.12245](http://arxiv.org/abs/2306.12245)|**[link](https://github.com/geekjuruo/beer2)**|
+|**2023-06-21**|**ICAR, a categorical framework to connect vulnerability, threat and asset managements**|Arnaud Valence et.al.|[2306.12240](http://arxiv.org/abs/2306.12240)|null|
+|**2023-06-20**|**Agreeing and Disagreeing in Collaborative Knowledge Graph Construction: An Analysis of Wikidata**|Elisavet Koutsiana et.al.|[2306.11766](http://arxiv.org/abs/2306.11766)|null|
+|**2023-06-20**|**ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling**|Linyao Yang et.al.|[2306.11489](http://arxiv.org/abs/2306.11489)|null|
+|**2023-06-20**|**UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction**|Yansong Ning et.al.|[2306.11443](http://arxiv.org/abs/2306.11443)|**[link](https://github.com/usail-hkust/uukg)**|
+|**2023-06-19**|**BioREx: Improving Biomedical Relation Extraction by Leveraging Heterogeneous Datasets**|Po-Ting Lai et.al.|[2306.11189](http://arxiv.org/abs/2306.11189)|**[link](https://github.com/ncbi/biorex)**|
+|**2023-06-19**|**Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting**|Xinli Yu et.al.|[2306.11025](http://arxiv.org/abs/2306.11025)|null|
+|**2023-06-19**|**Tourist Attractions Recommendation based on Attention Knowledge Graph Convolution Network**|Ahmad A. Mubarak et.al.|[2306.10946](http://arxiv.org/abs/2306.10946)|null|
 |**2023-06-16**|**AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**|Yu Lu et.al.|[2306.09631](http://arxiv.org/abs/2306.09631)|null|
 |**2023-06-15**|**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**|Qiao Qiao et.al.|[2306.09519](http://arxiv.org/abs/2306.09519)|null|
 |**2023-06-15**|**Sample-Efficient Learning of Novel Visual Concepts**|Sarthak Bhagat et.al.|[2306.09482](http://arxiv.org/abs/2306.09482)|null|
@@ -1618,6 +1628,9 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Named entity recognition in resumes**|Ege Kesim et.al.|[2306.13062](http://arxiv.org/abs/2306.13062)|null|
+|**2023-06-22**|**Natural Language Processing in Electronic Health Records in Relation to Healthcare Decision-making: A Systematic Review**|Elias Hossain et.al.|[2306.12834](http://arxiv.org/abs/2306.12834)|null|
+|**2023-06-22**|**Identifying and Extracting Rare Disease Phenotypes with Large Language Models**|Cathy Shyr et.al.|[2306.12656](http://arxiv.org/abs/2306.12656)|**[link](https://github.com/cathyshyr/rare_disease_phenotype_extraction)**|
 |**2023-06-16**|**Pushing the Limits of ChatGPT on NLP Tasks**|Xiaofei Sun et.al.|[2306.09719](http://arxiv.org/abs/2306.09719)|null|
 |**2023-06-14**|**Improving Code-Switching and Named Entity Recognition in ASR with Speech Editing based Data Augmentation**|Zheng Liang et.al.|[2306.08588](http://arxiv.org/abs/2306.08588)|null|
 |**2023-06-14**|**Building a Corpus for Biomedical Relation Extraction of Species Mentions**|Oumaima El Khettari et.al.|[2306.08403](http://arxiv.org/abs/2306.08403)|null|
