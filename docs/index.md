@@ -1574,7 +1574,7 @@
 |**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667](http://arxiv.org/abs/2305.17667)|null|
 |**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364](http://arxiv.org/abs/2305.17364)|**[link](https://github.com/abachaa/evaluationmetrics-acl23)**|
 |**2023-05-26**|**A Categorical Representation Language and Computational System for Knowledge-Based Planning**|Angeline Aguinaldo et.al.|[2305.17208](http://arxiv.org/abs/2305.17208)|null|
-|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
+|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|**[link](https://github.com/nustm/cpnc)**|
 |**2023-05-26**|**Can large language models generate salient negative statements?**|Hiba Arnaout et.al.|[2305.16755](http://arxiv.org/abs/2305.16755)|null|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944](http://arxiv.org/abs/2305.15944)|**[link](https://github.com/anongekc/gekcs)**|
 |**2023-05-25**|**BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering**|Jie He et.al.|[2305.15932](http://arxiv.org/abs/2305.15932)|null|
@@ -1657,7 +1657,7 @@
 |**2023-05-29**|**ContrastNER: Contrastive-based Prompt Tuning for Few-shot NER**|Amirhossein Layegh et.al.|[2305.17951](http://arxiv.org/abs/2305.17951)|null|
 |**2023-05-29**|**E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition**|Zhen Zhang et.al.|[2305.17854](http://arxiv.org/abs/2305.17854)|**[link](https://github.com/leon-bit-9527/ener)**|
 |**2023-05-27**|**Complementary and Integrative Health Lexicon (CIHLex) and Entity Recognition in the Literature**|Huixue Zhou et.al.|[2305.17353](http://arxiv.org/abs/2305.17353)|null|
-|**2023-05-26**|**PromptNER: Prompt Locating and Typing for Named Entity Recognition**|Yongliang Shen et.al.|[2305.17104](http://arxiv.org/abs/2305.17104)|null|
+|**2023-05-26**|**PromptNER: Prompt Locating and Typing for Named Entity Recognition**|Yongliang Shen et.al.|[2305.17104](http://arxiv.org/abs/2305.17104)|**[link](https://github.com/tricktreat/promptner)**|
 |**2023-05-26**|**People and Places of Historical Europe: Bootstrapping Annotation Pipeline and a New Corpus of Named Entities in Late Medieval Texts**|Vít Novotný et.al.|[2305.16718](http://arxiv.org/abs/2305.16718)|null|
 |**2023-05-25**|**Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation**|Yandan Zheng et.al.|[2305.15872](http://arxiv.org/abs/2305.15872)|null|
 |**2023-05-24**|**Automated Refugee Case Analysis: An NLP Pipeline for Supporting Legal Practitioners**|Claire Barale et.al.|[2305.15533](http://arxiv.org/abs/2305.15533)|**[link](https://github.com/clairebarale/refugee_cases_ner)**|
