@@ -1,4 +1,4 @@
-## Updated on 2023.06.26
+## Updated on 2023.07.01
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Exploring & Exploiting High-Order Graph Structure for Sparse Knowledge Graph Completion**|Tao He et.al.|[2306.17034](http://arxiv.org/abs/2306.17034)|null|
+|**2023-06-29**|**Divide and Conquer the EmpiRE: A Community-Maintainable Knowledge Graph of Empirical Research in Requirements Engineering**|Oliver Karras et.al.|[2306.16791](http://arxiv.org/abs/2306.16791)|null|
+|**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
+|**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195](http://arxiv.org/abs/2306.16195)|null|
+|**2023-06-28**|**Knowledge-Enhanced Hierarchical Information Correlation Learning for Multi-Modal Rumor Detection**|Jiawei Liu et.al.|[2306.15946](http://arxiv.org/abs/2306.15946)|null|
+|**2023-06-26**|**TransERR: Translation-based Knowledge Graph Completion via Efficient Relation Rotation**|Jiang Li et.al.|[2306.14580](http://arxiv.org/abs/2306.14580)|**[link](https://github.com/dellixx/transerr)**|
+|**2023-06-26**|**Knowledge Graph-Augmented Korean Generative Commonsense Reasoning**|Dahyun Jung et.al.|[2306.14470](http://arxiv.org/abs/2306.14470)|null|
+|**2023-06-24**|**IERL: Interpretable Ensemble Representation Learning -- Combining CrowdSourced Knowledge and Distributed Semantic Representations**|Yuxin Zi et.al.|[2306.13865](http://arxiv.org/abs/2306.13865)|null|
+|**2023-06-24**|**DEKGCI: A double-sided recommendation model for integrating knowledge graph and user-item interaction graph**|Yajing Yang et.al.|[2306.13837](http://arxiv.org/abs/2306.13837)|null|
+|**2023-06-23**|**Knowledge-Infused Self Attention Transformers**|Kaushik Roy et.al.|[2306.13501](http://arxiv.org/abs/2306.13501)|null|
 |**2023-06-23**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802](http://arxiv.org/abs/2306.12802)|null|
 |**2023-06-22**|**Explainable Representations for Relation Prediction in Knowledge Graphs**|Rita T. Sousa et.al.|[2306.12687](http://arxiv.org/abs/2306.12687)|**[link](https://github.com/liseda-lab/seek)**|
 |**2023-06-21**|**Bidirectional End-to-End Learning of Retriever-Reader Paradigm for Entity Linking**|Yinghui Li et.al.|[2306.12245](http://arxiv.org/abs/2306.12245)|**[link](https://github.com/geekjuruo/beer2)**|
@@ -1628,6 +1638,15 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Integrating Large Pre-trained Models into Multimodal Named Entity Recognition with Evidential Fusion**|Weide Liu et.al.|[2306.16991](http://arxiv.org/abs/2306.16991)|null|
+|**2023-06-28**|**Streamlining Social Media Information Retrieval for Public Health Research with Deep Learning**|Yining Hua et.al.|[2306.16001](http://arxiv.org/abs/2306.16001)|null|
+|**2023-06-28**|**Sentence-to-Label Generation Framework for Multi-task Learning of Japanese Sentence Classification and Named Entity Recognition**|Chengguang Gan et.al.|[2306.15978](http://arxiv.org/abs/2306.15978)|null|
+|**2023-06-27**|**Biomedical Entity Recognition by Detection and Matching**|Junyi Bian et.al.|[2306.15736](http://arxiv.org/abs/2306.15736)|**[link](https://github.com/eulring/dmner)**|
+|**2023-06-27**|**CamemBERT-bio: a Tasty French Language Model Better for your Health**|Rian Touchent et.al.|[2306.15550](http://arxiv.org/abs/2306.15550)|null|
+|**2023-06-27**|**Using Large Language Models to Provide Explanatory Feedback to Human Tutors**|Jionghao Lin et.al.|[2306.15498](http://arxiv.org/abs/2306.15498)|null|
+|**2023-06-26**|**Enriching the NArabizi Treebank: A Multifaceted Approach to Supporting an Under-Resourced Language**|Riabi Arij et.al.|[2306.14866](http://arxiv.org/abs/2306.14866)|null|
+|**2023-06-26**|**Transfer Learning across Several Centuries: Machine and Historian Integrated Method to Decipher Royal Secretary's Diary**|Sojung Lucia Kim et.al.|[2306.14592](http://arxiv.org/abs/2306.14592)|null|
+|**2023-06-29**|**Chain-of-Thought Prompt Distillation for Multimodal Named Entity and Multimodal Relation Extraction**|Feng Chen et.al.|[2306.14122](http://arxiv.org/abs/2306.14122)|**[link](https://github.com/hwchase17/langchain)**|
 |**2023-06-22**|**Named entity recognition in resumes**|Ege Kesim et.al.|[2306.13062](http://arxiv.org/abs/2306.13062)|null|
 |**2023-06-22**|**Natural Language Processing in Electronic Health Records in Relation to Healthcare Decision-making: A Systematic Review**|Elias Hossain et.al.|[2306.12834](http://arxiv.org/abs/2306.12834)|null|
 |**2023-06-22**|**Identifying and Extracting Rare Disease Phenotypes with Large Language Models**|Cathy Shyr et.al.|[2306.12656](http://arxiv.org/abs/2306.12656)|**[link](https://github.com/cathyshyr/rare_disease_phenotype_extraction)**|
