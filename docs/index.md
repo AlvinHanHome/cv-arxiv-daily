@@ -1,4 +1,4 @@
-## Updated on 2023.07.17
+## Updated on 2023.07.21
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,15 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Multi-Grained Multimodal Interaction Network for Entity Linking**|Pengfei Luo et.al.|[2307.09721](http://arxiv.org/abs/2307.09721)|**[link](https://github.com/pengfei-luo/mimic)**|
+|**2023-07-17**|**Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**|Lauren Nicole DeLong et.al.|[2307.08411](http://arxiv.org/abs/2307.08411)|null|
+|**2023-07-16**|**Bayesian inference for data-efficient, explainable, and safe robotic motion planning: A review**|Chengmin Zhou et.al.|[2307.08024](http://arxiv.org/abs/2307.08024)|null|
+|**2023-07-15**|**AspectCSE: Sentence Embeddings for Aspect-based Semantic Textual Similarity using Contrastive Learning and Structured Knowledge**|Tim Schopf et.al.|[2307.07851](http://arxiv.org/abs/2307.07851)|null|
+|**2023-07-15**|**Explainable AI with counterfactual paths**|Bastian Pfeifer et.al.|[2307.07764](http://arxiv.org/abs/2307.07764)|**[link](https://github.com/pievos101/cpath)**|
+|**2023-07-15**|**Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph**|Jiashuo Sun et.al.|[2307.07697](http://arxiv.org/abs/2307.07697)|null|
+|**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354](http://arxiv.org/abs/2307.07354)|null|
+|**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312](http://arxiv.org/abs/2307.07312)|null|
+|**2023-07-13**|**Towards Populating Generalizable Engineering Design Knowledge**|L Siddharth et.al.|[2307.06985](http://arxiv.org/abs/2307.06985)|null|
 |**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917](http://arxiv.org/abs/2307.06917)|null|
 |**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698](http://arxiv.org/abs/2307.06698)|**[link](https://github.com/thiviyant/intelligraphs)**|
 |**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119](http://arxiv.org/abs/2307.06119)|null|
@@ -1662,6 +1671,9 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Cross-Lingual NER for Financial Transaction Data in Low-Resource Languages**|Sunisth Kumar et.al.|[2307.08714](http://arxiv.org/abs/2307.08714)|null|
+|**2023-07-11**|**Named entity recognition using GPT for identifying comparable companies**|Eurico Covas et.al.|[2307.07420](http://arxiv.org/abs/2307.07420)|null|
+|**2023-07-17**|**RoPDA: Robust Prompt-based Data Augmentation for Low-Resource Named Entity Recognition**|Sihan Song et.al.|[2307.07417](http://arxiv.org/abs/2307.07417)|null|
 |**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361](http://arxiv.org/abs/2307.04361)|**[link](https://github.com/nhhoang96/phonemic_xlingual)**|
 |**2023-07-05**|**Named Entity Inclusion in Abstractive Text Summarization**|Sergey Berezin et.al.|[2307.02570](http://arxiv.org/abs/2307.02570)|null|
 |**2023-07-03**|**Exploring Spoken Named Entity Recognition: A Cross-Lingual Perspective**|Moncef Benaicha et.al.|[2307.01310](http://arxiv.org/abs/2307.01310)|**[link](https://github.com/moncefbenaicha/spokenner)**|
@@ -1756,7 +1768,7 @@
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-06-30**|**Rank one discrete valuations of power series fields**|F. J. Herrera Govantes et.al.|[math/0605225](http://arxiv.org/abs/math/0605225)|null|
 |**2002-12-16**|**Rank one discrete valuations of $k((X_1,...X_n))$**|M. A. Olalla Acosta et.al.|[math/0010313](http://arxiv.org/abs/math/0010313)|null|
-|**2023-02-17**|**Strong Anti-correlation between Disc-corona radii and Frequencies of Low-frequency QPOs in a black hole binary XTE J1550-564 :Evidence for Lense-Thirring Precession**|Aya Kubota et.al.|[2302.08314](http://arxiv.org/abs/2302.08314)|null|
+|**2023-07-15**|**Disc corona radii and QPO frequencies in black hole binaries: testing Lense-Thirring precession origin**|Aya Kubota et.al.|[2302.08314](http://arxiv.org/abs/2302.08314)|null|
 |**2023-03-18**|**FGSI: Distant Supervision for Relation Extraction method based on Fine-Grained Semantic Information**|Chenghong Sun et.al.|[2302.02078](http://arxiv.org/abs/2302.02078)|null|
 |**2022-03-31**|**Scientific and Technological Text Knowledge Extraction Method of based on Word Mixing and GRU**|Suyu Ouyang et.al.|[2203.17079](http://arxiv.org/abs/2203.17079)|null|
 |**2022-01-14**|**The Lokahi Prototype: Toward the automatic Extraction of Entity Relationship Models from Text**|Michael Kaufmann et.al.|[2201.05327](http://arxiv.org/abs/2201.05327)|null|
@@ -1766,6 +1778,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Cumulative Spatial Knowledge Distillation for Vision Transformers**|Borui Zhao et.al.|[2307.08500](http://arxiv.org/abs/2307.08500)|null|
 |**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|null|
 |**2023-05-14**|**A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment**|Jiyue Jiang et.al.|[2305.08200](http://arxiv.org/abs/2305.08200)|**[link](https://github.com/jiangjyjy/csd)**|
 |**2023-05-12**|**Towards Versatile and Efficient Visual Knowledge Injection into Pre-trained Language Models with Cross-Modal Adapters**|Xinyun Zhang et.al.|[2305.07358](http://arxiv.org/abs/2305.07358)|null|
