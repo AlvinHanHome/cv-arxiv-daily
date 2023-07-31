@@ -21,7 +21,7 @@
 |**2023-07-22**|**Named Entity Resolution in Personal Knowledge Graphs**|Mayank Kejriwal et.al.|[2307.12173](http://arxiv.org/abs/2307.12173)|null|
 |**2023-07-22**|**Fast Knowledge Graph Completion using Graphics Processing Units**|Chun-Hee Lee et.al.|[2307.12059](http://arxiv.org/abs/2307.12059)|null|
 |**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719](http://arxiv.org/abs/2307.11719)|null|
-|**2023-07-24**|**CausE: Towards Causal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2307.11610](http://arxiv.org/abs/2307.11610)|null|
+|**2023-07-24**|**CausE: Towards Causal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2307.11610](http://arxiv.org/abs/2307.11610)|**[link](https://github.com/zjukg/cause)**|
 |**2023-07-21**|**CohortGPT: An Enhanced GPT for Participant Recruitment in Clinical Study**|Zihan Guan et.al.|[2307.11346](http://arxiv.org/abs/2307.11346)|null|
 |**2023-07-20**|**Towards Ontologically Grounded and Language-Agnostic Knowledge Graphs**|Walid S. Saba et.al.|[2307.11206](http://arxiv.org/abs/2307.11206)|null|
 |**2023-07-20**|**A Constraint-based Recommender System via RDF Knowledge Graphs**|Ngoc Luyen Le et.al.|[2307.10702](http://arxiv.org/abs/2307.10702)|null|
@@ -114,7 +114,7 @@
 |**2023-05-28**|**MemeGraphs: Linking Memes to Knowledge Graphs**|Vasiliki Kougia et.al.|[2305.18391](http://arxiv.org/abs/2305.18391)|**[link](https://github.com/vasilikikou/memegraphs)**|
 |**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256](http://arxiv.org/abs/2305.18256)|**[link](https://github.com/bdi-lab/hynt)**|
 |**2023-05-29**|**Sequential Condition Evolved Interaction Knowledge Graph for Traditional Chinese Medicine Recommendation**|Jingjin Liu et.al.|[2305.17866](http://arxiv.org/abs/2305.17866)|null|
-|**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667](http://arxiv.org/abs/2305.17667)|null|
+|**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667](http://arxiv.org/abs/2305.17667)|**[link](https://github.com/geofila/Semantic-Counterfactuals)**|
 |**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364](http://arxiv.org/abs/2305.17364)|**[link](https://github.com/abachaa/evaluationmetrics-acl23)**|
 |**2023-05-26**|**A Categorical Representation Language and Computational System for Knowledge-Based Planning**|Angeline Aguinaldo et.al.|[2305.17208](http://arxiv.org/abs/2305.17208)|null|
 |**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|**[link](https://github.com/nustm/cpnc)**|
