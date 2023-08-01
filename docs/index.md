@@ -1,4 +1,4 @@
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Task-driven Semantic-aware Green Cooperative Transmission Strategy for Vehicular Networks**|Wanting Yang et.al.|[2307.15284](http://arxiv.org/abs/2307.15284)|null|
 |**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197](http://arxiv.org/abs/2307.13197)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
 |**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179](http://arxiv.org/abs/2307.12179)|null|
