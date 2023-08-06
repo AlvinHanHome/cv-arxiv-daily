@@ -1,4 +1,4 @@
-## Updated on 2023.08.01
+## Updated on 2023.08.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Towards Self-organizing Personal Knowledge Assistants in Evolving Corporate Memories**|Christian Jilek et.al.|[2308.01732](http://arxiv.org/abs/2308.01732)|null|
+|**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
+|**2023-08-02**|**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**|Zhipeng Tan et.al.|[2308.01105](http://arxiv.org/abs/2308.01105)|null|
+|**2023-07-31**|**A Modular Ontology for MODS -- Metadata Object Description Schema**|Rushrukh Rayan et.al.|[2308.00116](http://arxiv.org/abs/2308.00116)|null|
+|**2023-08-02**|**Towards Semantically Enriched Embeddings for Knowledge Graph Completion**|Mehwish Alam et.al.|[2308.00081](http://arxiv.org/abs/2308.00081)|null|
+|**2023-07-31**|**The World Literature Knowledge Graph**|Marco Antonio Stranisci et.al.|[2307.16659](http://arxiv.org/abs/2307.16659)|null|
+|**2023-07-30**|**Question Answering with Deep Neural Networks for Semi-Structured Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214](http://arxiv.org/abs/2307.16214)|**[link](https://github.com/omrivm/uncle-bert)**|
+|**2023-08-01**|**Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment**|Zhuo Chen et.al.|[2307.16210](http://arxiv.org/abs/2307.16210)|null|
+|**2023-07-30**|**Around the GLOBE: Numerical Aggregation Question-Answering on Heterogeneous Genealogical Knowledge Graphs with Deep Neural Networks**|Omri Suissa et.al.|[2307.16208](http://arxiv.org/abs/2307.16208)|null|
+|**2023-07-30**|**Synthesizing Event-centric Knowledge Graphs of Daily Activities Using Virtual Space**|Shusaku Egami et.al.|[2307.16206](http://arxiv.org/abs/2307.16206)|**[link](https://github.com/aistairc/virtualhome2kg)**|
 |**2023-07-28**|**Task-driven Semantic-aware Green Cooperative Transmission Strategy for Vehicular Networks**|Wanting Yang et.al.|[2307.15284](http://arxiv.org/abs/2307.15284)|null|
 |**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197](http://arxiv.org/abs/2307.13197)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
@@ -168,12 +178,14 @@
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230806>back to top</a>)</p>
 
 ## NER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Athena 2.0: Discourse and User Modeling in Open Domain Dialogue**|Omkar Patil et.al.|[2308.01887](http://arxiv.org/abs/2308.01887)|null|
+|**2023-07-28**|**Resume Evaluation through Latent Dirichlet Allocation and Natural Language Processing for Effective Candidate Selection**|Vidhita Jagwani et.al.|[2307.15752](http://arxiv.org/abs/2307.15752)|null|
 |**2023-07-27**|**Improving Natural Language Inference in Arabic using Transformer Models and Linguistically Informed Pre-Training**|Mohammad Majd Saad Al Deen et.al.|[2307.14666](http://arxiv.org/abs/2307.14666)|**[link](https://github.com/fraunhofer-iais/arabic_nlp)**|
 |**2023-07-25**|**Zshot: An Open-source Framework for Zero-Shot Named Entity Recognition and Relation Extraction**|Gabriele Picco et.al.|[2307.13497](http://arxiv.org/abs/2307.13497)|null|
 |**2023-07-25**|**Embedding Models for Supervised Automatic Extraction and Classification of Named Entities in Scientific Acknowledgements**|Nina Smirnova et.al.|[2307.13377](http://arxiv.org/abs/2307.13377)|**[link](https://github.com/kalawinka/season)**|
@@ -271,7 +283,7 @@
 |**2023-05-04**|**USTC-NELSLIP at SemEval-2023 Task 2: Statistical Construction and Dual Adaptation of Gazetteer for Multilingual Complex NER**|Jun-Yu Ma et.al.|[2305.02517](http://arxiv.org/abs/2305.02517)|null|
 |**2023-05-03**|**Causal Interventions-based Few-Shot Named Entity Recognition**|Zhen Yang et.al.|[2305.01914](http://arxiv.org/abs/2305.01914)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230806>back to top</a>)</p>
 
 ## ERE
 
@@ -285,12 +297,13 @@
 |**2022-01-14**|**The Lokahi Prototype: Toward the automatic Extraction of Entity Relationship Models from Text**|Michael Kaufmann et.al.|[2201.05327](http://arxiv.org/abs/2201.05327)|null|
 |**2008-04-02**|**Parts-of-Speech Tagger Errors Do Not Necessarily Degrade Accuracy in Extracting Information from Biomedical Text**|Maurice HT Ling et.al.|[0804.0317](http://arxiv.org/abs/0804.0317)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230806>back to top</a>)</p>
 
 ## KF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-30**|**User-Controlled Knowledge Fusion in Large Language Models: Balancing Creativity and Hallucination**|Chen Zhang et.al.|[2307.16139](http://arxiv.org/abs/2307.16139)|null|
 |**2023-07-17**|**Cumulative Spatial Knowledge Distillation for Vision Transformers**|Borui Zhao et.al.|[2307.08500](http://arxiv.org/abs/2307.08500)|null|
 |**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|null|
 |**2023-05-14**|**A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment**|Jiyue Jiang et.al.|[2305.08200](http://arxiv.org/abs/2305.08200)|**[link](https://github.com/jiangjyjy/csd)**|
@@ -306,7 +319,7 @@
 |**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019](http://arxiv.org/abs/2302.05019)|null|
 |**2023-04-28**|**Dataless Knowledge Fusion by Merging Weights of Language Models**|Xisen Jin et.al.|[2212.09849](http://arxiv.org/abs/2212.09849)|**[link](https://github.com/bloomberg/dataless-model-merging)**|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230806>back to top</a>)</p>
 
 ## ED
 
@@ -326,12 +339,13 @@
 |**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106](http://arxiv.org/abs/2207.04106)|null|
 |**2022-04-20**|**LingYi: Medical Conversational Question Answering System based on Multi-modal Knowledge Graphs**|Fei Xia et.al.|[2204.09220](http://arxiv.org/abs/2204.09220)|**[link](https://github.com/wengsyx/lingyi)**|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230806>back to top</a>)</p>
 
 ## CR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Athena 2.0: Discourse and User Modeling in Open Domain Dialogue**|Omkar Patil et.al.|[2308.01887](http://arxiv.org/abs/2308.01887)|null|
 |**2023-07-14**|**Similarity-based Memory Enhanced Joint Entity and Relation Extraction**|Witold Kosciukiewicz et.al.|[2307.11762](http://arxiv.org/abs/2307.11762)|**[link](https://github.com/kosciukiewicz/similarity_based_memory_re)**|
 |**2023-07-11**|**Better Handling Coreference Resolution in Aspect Level Sentiment Classification by Fine-Tuning Language Models**|Dhruv Mullick et.al.|[2307.05646](http://arxiv.org/abs/2307.05646)|null|
 |**2023-07-10**|**SimpleMTOD: A Simple Language Model for Multimodal Task-Oriented Dialogue with Symbolic Scene Representation**|Bhathiya Hemanthage et.al.|[2307.04907](http://arxiv.org/abs/2307.04907)|null|
@@ -359,7 +373,7 @@
 |**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842](http://arxiv.org/abs/2302.01842)|**[link](https://github.com/vladimir-ershov/adgm-kg1)**|
 |**2023-02-03**|**AmbiCoref: Evaluating Human and Model Sensitivity to Ambiguous Coreference**|Yuewei Yuan et.al.|[2302.00762](http://arxiv.org/abs/2302.00762)|**[link](https://github.com/lucyyyw/ambicoref)**|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
