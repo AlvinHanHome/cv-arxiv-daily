@@ -1,4 +1,4 @@
-## Updated on 2023.08.14
+## Updated on 2023.08.16
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,15 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
+|**2023-08-13**|**3D Scene Graph Prediction on Point Clouds Using Knowledge Graphs**|Yiding Qiu et.al.|[2308.06719](http://arxiv.org/abs/2308.06719)|null|
+|**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696](http://arxiv.org/abs/2308.06696)|null|
+|**2023-08-12**|**Approximate Answering of Graph Queries**|Michael Cochez et.al.|[2308.06585](http://arxiv.org/abs/2308.06585)|null|
+|**2023-08-12**|**HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion**|Zhiwei Hu et.al.|[2308.06512](http://arxiv.org/abs/2308.06512)|**[link](https://github.com/zhiweihu1103/hkgc-hyperformer)**|
+|**2023-08-12**|**Generating Faithful Text From a Knowledge Graph with Noisy Reference Text**|Tahsina Hashem et.al.|[2308.06488](http://arxiv.org/abs/2308.06488)|null|
+|**2023-08-11**|**Large Language Models and Knowledge Graphs: Opportunities and Challenges**|Jeff Z. Pan et.al.|[2308.06374](http://arxiv.org/abs/2308.06374)|null|
+|**2023-08-10**|**C5: Towards Better Conversation Comprehension and Contextual Continuity for ChatGPT**|Pan Liang et.al.|[2308.05567](http://arxiv.org/abs/2308.05567)|null|
+|**2023-08-10**|**Few-Shot Data-to-Text Generation via Unified Representation and Multi-Source Learning**|Alexander Hanbo Li et.al.|[2308.05317](http://arxiv.org/abs/2308.05317)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579](http://arxiv.org/abs/2308.04579)|null|
 |**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172](http://arxiv.org/abs/2308.04172)|null|
@@ -1703,6 +1712,9 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**MC-DRE: Multi-Aspect Cross Integration for Drug Event/Entity Extraction**|Jie Yang et.al.|[2308.06546](http://arxiv.org/abs/2308.06546)|null|
+|**2023-08-12**|**Demonstration-based learning for few-shot biomedical named entity recognition under machine reading comprehension**|Leilei Su et.al.|[2308.06454](http://arxiv.org/abs/2308.06454)|null|
+|**2023-08-10**|**LASIGE and UNICAGE solution to the NASA LitCoin NLP Competition**|Pedro Ruas et.al.|[2308.05609](http://arxiv.org/abs/2308.05609)|null|
 |**2023-08-07**|**UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition**|Wenxuan Zhou et.al.|[2308.03279](http://arxiv.org/abs/2308.03279)|null|
 |**2023-08-03**|**Learning Implicit Entity-object Relations by Bidirectional Generative Alignment for Multimodal NER**|Feng Chen et.al.|[2308.02570](http://arxiv.org/abs/2308.02570)|null|
 |**2023-08-03**|**Athena 2.0: Discourse and User Modeling in Open Domain Dialogue**|Omkar Patil et.al.|[2308.01887](http://arxiv.org/abs/2308.01887)|null|
@@ -1820,6 +1832,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235](http://arxiv.org/abs/2308.06235)|**[link](https://github.com/1094701018/ketm)**|
 |**2023-08-07**|**Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM**|Bin Yin et.al.|[2308.03333](http://arxiv.org/abs/2308.03333)|null|
 |**2023-07-30**|**User-Controlled Knowledge Fusion in Large Language Models: Balancing Creativity and Hallucination**|Chen Zhang et.al.|[2307.16139](http://arxiv.org/abs/2307.16139)|null|
 |**2023-07-17**|**Cumulative Spatial Knowledge Distillation for Vision Transformers**|Borui Zhao et.al.|[2307.08500](http://arxiv.org/abs/2307.08500)|null|
@@ -1859,7 +1872,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-08**|**DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs**|Yiyun Xiong et.al.|[2308.04498](http://arxiv.org/abs/2308.04498)|**[link](https://github.com/palm2333/dialogre_coreference)**|
+|**2023-08-12**|**DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs**|Yiyun Xiong et.al.|[2308.04498](http://arxiv.org/abs/2308.04498)|**[link](https://github.com/palm2333/dialogre_coreference)**|
 |**2023-08-03**|**Athena 2.0: Discourse and User Modeling in Open Domain Dialogue**|Omkar Patil et.al.|[2308.01887](http://arxiv.org/abs/2308.01887)|null|
 |**2023-07-14**|**Similarity-based Memory Enhanced Joint Entity and Relation Extraction**|Witold Kosciukiewicz et.al.|[2307.11762](http://arxiv.org/abs/2307.11762)|**[link](https://github.com/kosciukiewicz/similarity_based_memory_re)**|
 |**2023-07-11**|**Better Handling Coreference Resolution in Aspect Level Sentiment Classification by Fine-Tuning Language Models**|Dhruv Mullick et.al.|[2307.05646](http://arxiv.org/abs/2307.05646)|null|
