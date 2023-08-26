@@ -1,4 +1,4 @@
-## Updated on 2023.08.21
+## Updated on 2023.08.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
+|**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991](http://arxiv.org/abs/2308.11991)|null|
+|**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730](http://arxiv.org/abs/2308.11730)|null|
+|**2023-08-22**|**Recommending Analogical APIs via Knowledge Graph Embedding**|Mingwei Liu et.al.|[2308.11422](http://arxiv.org/abs/2308.11422)|null|
+|**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576](http://arxiv.org/abs/2308.10576)|null|
+|**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537](http://arxiv.org/abs/2308.10537)|null|
+|**2023-08-20**|**FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt**|Zhixiao Qi et.al.|[2308.10173](http://arxiv.org/abs/2308.10173)|null|
+|**2023-08-20**|**Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?**|Kai Sun et.al.|[2308.10168](http://arxiv.org/abs/2308.10168)|null|
+|**2023-08-22**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729](http://arxiv.org/abs/2308.09729)|null|
+|**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502](http://arxiv.org/abs/2308.09502)|null|
 |**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459](http://arxiv.org/abs/2308.08459)|**[link](https://github.com/zhaijianyang/kp4sr)**|
 |**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
 |**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
@@ -203,12 +213,21 @@
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 ## NER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Advancing Hungarian Text Processing with HuSpaCy: Efficient and Accurate NLP Pipelines**|György Orosz et.al.|[2308.12635](http://arxiv.org/abs/2308.12635)|**[link](https://github.com/huspacy/huspacy)**|
+|**2023-08-24**|**CARE: Co-Attention Network for Joint Entity and Relation Extraction**|Wenjun Kong et.al.|[2308.12531](http://arxiv.org/abs/2308.12531)|null|
+|**2023-08-23**|**Evolution of ESG-focused DLT Research: An NLP Analysis of the Literature**|Walter Hernandez et.al.|[2308.12420](http://arxiv.org/abs/2308.12420)|null|
+|**2023-08-22**|**Extracting Relational Triples Based on Graph Recursive Neural Network via Dynamic Feedback Forest Algorithm**|Hongyin Zhu et.al.|[2308.11411](http://arxiv.org/abs/2308.11411)|null|
+|**2023-08-19**|**Open, Closed, or Small Language Models for Text Classification?**|Hao Yu et.al.|[2308.10092](http://arxiv.org/abs/2308.10092)|null|
+|**2023-08-18**|**Accelerated materials language processing enabled by GPT**|Jaewoong Choi et.al.|[2308.09354](http://arxiv.org/abs/2308.09354)|null|
+|**2023-08-17**|**mCL-NER: Cross-Lingual Named Entity Recognition via Multi-view Contrastive Learning**|Ying Mo et.al.|[2308.09073](http://arxiv.org/abs/2308.09073)|null|
+|**2023-08-17**|**Task Relation Distillation and Prototypical Pseudo Label for Incremental Named Entity Recognition**|Duzhen Zhang et.al.|[2308.08793](http://arxiv.org/abs/2308.08793)|**[link](https://github.com/bladedancer957/iner_rdp)**|
+|**2023-08-16**|**BIOptimus: Pre-training an Optimal Biomedical Language Model with Curriculum Learning for Named Entity Recognition**|Pavlova Vera et.al.|[2308.08625](http://arxiv.org/abs/2308.08625)|**[link](https://github.com/rttl-ai/bioptimus)**|
 |**2023-08-14**|**Automated Testing and Improvement of Named Entity Recognition Systems**|Boxi Yu et.al.|[2308.07937](http://arxiv.org/abs/2308.07937)|null|
 |**2023-08-15**|**Informed Named Entity Recognition Decoding for Generative Language Models**|Tobias Deußer et.al.|[2308.07791](http://arxiv.org/abs/2308.07791)|null|
 |**2023-08-15**|**MC-DRE: Multi-Aspect Cross Integration for Drug Event/Entity Extraction**|Jie Yang et.al.|[2308.06546](http://arxiv.org/abs/2308.06546)|null|
@@ -315,7 +334,7 @@
 |**2023-05-04**|**USTC-NELSLIP at SemEval-2023 Task 2: Statistical Construction and Dual Adaptation of Gazetteer for Multilingual Complex NER**|Jun-Yu Ma et.al.|[2305.02517](http://arxiv.org/abs/2305.02517)|null|
 |**2023-05-03**|**Causal Interventions-based Few-Shot Named Entity Recognition**|Zhen Yang et.al.|[2305.01914](http://arxiv.org/abs/2305.01914)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 ## ERE
 
@@ -329,12 +348,13 @@
 |**2022-01-14**|**The Lokahi Prototype: Toward the automatic Extraction of Entity Relationship Models from Text**|Michael Kaufmann et.al.|[2201.05327](http://arxiv.org/abs/2201.05327)|null|
 |**2008-04-02**|**Parts-of-Speech Tagger Errors Do Not Necessarily Degrade Accuracy in Extracting Information from Biomedical Text**|Maurice HT Ling et.al.|[0804.0317](http://arxiv.org/abs/0804.0317)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 ## KF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-17**|**Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer**|Liyue Chen et.al.|[2308.09724](http://arxiv.org/abs/2308.09724)|null|
 |**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235](http://arxiv.org/abs/2308.06235)|**[link](https://github.com/1094701018/ketm)**|
 |**2023-08-18**|**Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM**|Bin Yin et.al.|[2308.03333](http://arxiv.org/abs/2308.03333)|null|
 |**2023-07-30**|**User-Controlled Knowledge Fusion in Large Language Models: Balancing Creativity and Hallucination**|Chen Zhang et.al.|[2307.16139](http://arxiv.org/abs/2307.16139)|null|
@@ -353,7 +373,7 @@
 |**2023-02-10**|**A Comprehensive Survey on Automatic Knowledge Graph Construction**|Lingfeng Zhong et.al.|[2302.05019](http://arxiv.org/abs/2302.05019)|null|
 |**2023-04-28**|**Dataless Knowledge Fusion by Merging Weights of Language Models**|Xisen Jin et.al.|[2212.09849](http://arxiv.org/abs/2212.09849)|**[link](https://github.com/bloomberg/dataless-model-merging)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 ## ED
 
@@ -373,7 +393,7 @@
 |**2022-07-08**|**Improving Entity Disambiguation by Reasoning over a Knowledge Base**|Tom Ayoola et.al.|[2207.04106](http://arxiv.org/abs/2207.04106)|null|
 |**2022-04-20**|**LingYi: Medical Conversational Question Answering System based on Multi-modal Knowledge Graphs**|Fei Xia et.al.|[2204.09220](http://arxiv.org/abs/2204.09220)|**[link](https://github.com/wengsyx/lingyi)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 ## CR
 
@@ -408,7 +428,7 @@
 |**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842](http://arxiv.org/abs/2302.01842)|**[link](https://github.com/vladimir-ershov/adgm-kg1)**|
 |**2023-02-03**|**AmbiCoref: Evaluating Human and Model Sensitivity to Ambiguous Coreference**|Yuewei Yuan et.al.|[2302.00762](http://arxiv.org/abs/2302.00762)|**[link](https://github.com/lucyyyw/ambicoref)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
