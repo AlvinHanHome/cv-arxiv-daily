@@ -1,4 +1,4 @@
-## Updated on 2023.08.28
+## Updated on 2023.08.31
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,16 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298](http://arxiv.org/abs/2308.15298)|null|
+|**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244](http://arxiv.org/abs/2308.15244)|null|
+|**2023-08-29**|**Ontologies in Digital Twins: A Systematic Literature Review**|Erkan Karabulut et.al.|[2308.15168](http://arxiv.org/abs/2308.15168)|null|
+|**2023-08-29**|**Large language models converge toward human-like concept organization**|Mathias Lykke Gammelgaard et.al.|[2308.15047](http://arxiv.org/abs/2308.15047)|null|
+|**2023-08-29**|**Exploring the Limits of Historical Information for Temporal Knowledge Graph Extrapolation**|Yi Xu et.al.|[2308.15002](http://arxiv.org/abs/2308.15002)|null|
+|**2023-08-28**|**RESTORE: Graph Embedding Assessment Through Reconstruction**|Hong Yung Yip et.al.|[2308.14659](http://arxiv.org/abs/2308.14659)|null|
+|**2023-08-30**|**Context-Aware Composition of Agent Policies by Markov Decision Process Entity Embeddings and Agent Ensembles**|Nicole Merkle et.al.|[2308.14521](http://arxiv.org/abs/2308.14521)|**[link](https://github.com/nmerkle/sw_journal)**|
+|**2023-08-28**|**Biomedical Entity Linking with Triple-aware Pre-Training**|Xi Yan et.al.|[2308.14429](http://arxiv.org/abs/2308.14429)|null|
+|**2023-08-28**|**DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**|Zhijie Bao et.al.|[2308.14346](http://arxiv.org/abs/2308.14346)|**[link](https://github.com/fudandisc/disc-medllm)**|
+|**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321](http://arxiv.org/abs/2308.14321)|null|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
 |**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991](http://arxiv.org/abs/2308.11991)|null|
 |**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730](http://arxiv.org/abs/2308.11730)|null|
@@ -1728,6 +1738,10 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**ANER: Arabic and Arabizi Named Entity Recognition using Transformer-Based Approach**|Abdelrahman "Boda" Sadallah et.al.|[2308.14669](http://arxiv.org/abs/2308.14669)|null|
+|**2023-08-28**|**A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER**|Guanting Dong et.al.|[2308.14533](http://arxiv.org/abs/2308.14533)|**[link](https://github.com/dongguanting/msdp-fewshot-ner)**|
+|**2023-08-28**|**FonMTL: Towards Multitask Learning for the Fon Language**|Bonaventure F. P. Dossou et.al.|[2308.14280](http://arxiv.org/abs/2308.14280)|**[link](https://github.com/bonaventuredossou/multitask_fon)**|
+|**2023-08-27**|**Generative AI for Business Strategy: Using Foundation Models to Create Business Strategy Tools**|Son The Nguyen et.al.|[2308.14182](http://arxiv.org/abs/2308.14182)|null|
 |**2023-08-24**|**Advancing Hungarian Text Processing with HuSpaCy: Efficient and Accurate NLP Pipelines**|György Orosz et.al.|[2308.12635](http://arxiv.org/abs/2308.12635)|**[link](https://github.com/huspacy/huspacy)**|
 |**2023-08-24**|**CARE: Co-Attention Network for Joint Entity and Relation Extraction**|Wenjun Kong et.al.|[2308.12531](http://arxiv.org/abs/2308.12531)|null|
 |**2023-08-23**|**Evolution of ESG-focused DLT Research: An NLP Analysis of the Literature**|Walter Hernandez et.al.|[2308.12420](http://arxiv.org/abs/2308.12420)|null|
@@ -1866,7 +1880,7 @@
 |**2023-07-17**|**Cumulative Spatial Knowledge Distillation for Vision Transformers**|Borui Zhao et.al.|[2307.08500](http://arxiv.org/abs/2307.08500)|null|
 |**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|null|
 |**2023-05-14**|**A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment**|Jiyue Jiang et.al.|[2305.08200](http://arxiv.org/abs/2305.08200)|**[link](https://github.com/jiangjyjy/csd)**|
-|**2023-05-12**|**Towards Versatile and Efficient Visual Knowledge Injection into Pre-trained Language Models with Cross-Modal Adapters**|Xinyun Zhang et.al.|[2305.07358](http://arxiv.org/abs/2305.07358)|null|
+|**2023-08-28**|**Towards Versatile and Efficient Visual Knowledge Integration into Pre-trained Language Models with Cross-Modal Adapters**|Xinyun Zhang et.al.|[2305.07358](http://arxiv.org/abs/2305.07358)|null|
 |**2023-05-07**|**Empowering Language Model with Guided Knowledge Fusion for Biomedical Document Re-ranking**|Deepak Gupta et.al.|[2305.04344](http://arxiv.org/abs/2305.04344)|null|
 |**2023-04-28**|**Improving Knowledge Graph Entity Alignment with Graph Augmentation**|Feng Xie et.al.|[2304.14585](http://arxiv.org/abs/2304.14585)|**[link](https://github.com/xiefeng69/gaea)**|
 |**2023-04-24**|**Data-driven Knowledge Fusion for Deep Multi-instance Learning**|Yu-Xuan Zhang et.al.|[2304.11905](http://arxiv.org/abs/2304.11905)|**[link](https://github.com/inkiinki/dkmil)**|
@@ -1900,6 +1914,7 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**PronounFlow: A Hybrid Approach for Calibrating Pronouns in Sentences**|Nicos Isaak et.al.|[2308.15235](http://arxiv.org/abs/2308.15235)|null|
 |**2023-08-12**|**DialogRE^C+: An Extension of DialogRE to Investigate How Much Coreference Helps Relation Extraction in Dialogs**|Yiyun Xiong et.al.|[2308.04498](http://arxiv.org/abs/2308.04498)|**[link](https://github.com/palm2333/dialogre_coreference)**|
 |**2023-08-03**|**Athena 2.0: Discourse and User Modeling in Open Domain Dialogue**|Omkar Patil et.al.|[2308.01887](http://arxiv.org/abs/2308.01887)|null|
 |**2023-07-14**|**Similarity-based Memory Enhanced Joint Entity and Relation Extraction**|Witold Kosciukiewicz et.al.|[2307.11762](http://arxiv.org/abs/2307.11762)|**[link](https://github.com/kosciukiewicz/similarity_based_memory_re)**|
