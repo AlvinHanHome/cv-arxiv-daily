@@ -1,4 +1,4 @@
-## Updated on 2023.08.31
+## Updated on 2023.09.01
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1526,6 +1526,12 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055](http://arxiv.org/abs/2308.16055)|null|
+|**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909](http://arxiv.org/abs/2308.15909)|null|
+|**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
+|**2023-08-30**|**A Logic Programming Approach to Global Logistics in a Co-Design Environment**|Emmanuelle Dietz et.al.|[2308.15892](http://arxiv.org/abs/2308.15892)|null|
+|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813](http://arxiv.org/abs/2308.15813)|null|
+|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706](http://arxiv.org/abs/2308.15706)|null|
 |**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298](http://arxiv.org/abs/2308.15298)|null|
 |**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244](http://arxiv.org/abs/2308.15244)|null|
 |**2023-08-29**|**Ontologies in Digital Twins: A Systematic Literature Review**|Erkan Karabulut et.al.|[2308.15168](http://arxiv.org/abs/2308.15168)|null|
